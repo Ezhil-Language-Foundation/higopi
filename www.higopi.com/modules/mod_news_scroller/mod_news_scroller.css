@@ -1,0 +1,10 @@
+#marqueecontainer
+{
+	position: relative;
+	width: 825px; /*marquee width */
+	height: 200px; /*marquee height */
+	background-color: #f5f5ff;
+	overflow: hidden;
+	padding: 2px;
+	padding-left: 2px;
+}

@@ -1,0 +1,851 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" dir="ltr">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>HiGopi Forum / Need help in Transliteration</title>
+<link rel="stylesheet" type="text/css" href="style/Discuz5.css" />
+<!-- JOOMLA SITE GROUND TEMPLATE START 1 -->
+<link rel="stylesheet" type="text/css" href="/templates/siteground39/css/template_css_alt.css" />
+<!-- JOOMLA SITE GROUND TEMPLATE END 1 -->
+</head>
+<body class="body">
+
+<!-- JOOMLA SITE GROUND TEMPLATE START 2 -->
+<center>
+<div class="topmaincol">
+		<div class="divpath">
+			<div style="float: left; height: 33px; padding-top: 8px;">
+							</div>
+			<div style="padding: 10px 10px 0pt; float: right; height: 33px;">
+				<a href="/"><img src="/templates/siteground39/images/home.gif" alt="Home" title="Home" border="0"></a>&nbsp;&nbsp;&nbsp;
+				<a href="/aboutme-en.html"><img src="/templates/siteground39/images/mail.gif" alt="Contacts" title="Contacts" border="0"></a>
+			</div>
+		</div>
+</div>
+<div id="sitename">HiGopi.Com - Gopi's Web Home</div>
+<div id="logo">
+		<div id="menu">
+	<div class="menuc">
+		<div id="topnavi">
+			<ul>
+			<li><a id="tab1" href="/" class="noc"><span>HOME</span></a></li><li><a id="tab2" href="/gallery/" class="noc"><span>GALLERY</span></a></li><li><a id="tab3" href="/tools/" class="noc"><span>TOOLS</span></a></li><li><a id="tab4" href="/downloads/" class="noc"><span>DOWNLOADS</span></a></li><li><a id="tab5" href="/games/" class="noc"><span>GAMES</span></a></li><li><a id="tab6" href="/news/" class="noc"><span>NEWS</span></a></li><li><a id="tab8" href="/forum/" class="current"><span>FORUM</span></a></li><li><a id="tab8" href="/blogs-more/" class="noc"><span>BLOGS &amp; MORE</span></a></li><li><a id="tab9" href="/aboutme-en.html" class="noc"><span>ABOUT</span></a></li>			</ul>
+			<div valign="bottom" style="padding-top: 6px; float: right;" align="right"><a href="javascript:toggleScreen();"><img id="updownarrow" src="/templates/siteground39/images/uparrow.gif" alt="Up/Down" border="0"></a></div>
+		</div>
+	</div>
+</div>
+
+<div id="container">
+<table cellpadding="0" cellspacing="0">
+	<tr>
+	<td class="leftcol" valign="top">
+<!-- LEFTSIDE ITEMS START -->
+		<table cellpadding="0" cellspacing="0" class="moduletable">
+			<tr>
+			<th valign="top">
+				Search			</th>
+		</tr>
+			<tr>
+			<td>
+				<form action="http://www.higopi.com/search-results" id="cse-search-box">
+  <div>
+    <input type="hidden" name="cx" value="partner-pub-5262009510690646:scw47-byz79" />
+    <input type="hidden" name="cof" value="FORID:11" />
+    <input type="hidden" name="ie" value="UTF-8" />
+    <input type="text" name="q" size="27" />
+
+    <input type="submit" name="sa" value="Search" />
+  </div>
+</form>
+<script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=cse-search-box&lang=en"></script>			</td>
+		</tr>
+		</table>
+
+
+		<table cellpadding="0" cellspacing="0" class="moduletable">
+			<tr>
+			<th valign="top">
+				Latest News			</th>
+		</tr>
+			<tr>
+			<td><div id="LatestNews"></div> 	</td>
+		</tr>
+		</table>
+		<table cellpadding="0" cellspacing="0" class="moduletable">
+
+			<tr>
+			<th valign="top">
+				Chat			</th>
+		</tr>
+			<tr>
+			<td>
+				<a style='font-weight:bold;color:#0000ff' href="http://www.google.com/talk/service/badge/Start?tk=z01q6amlqdrbcu8ofki9eu2hef9eecu4jp7999vf6do8tlca1l1bsde3mgtj5jd1q3et8t3i6h13ku1rmup7sgm78v7gcsjp93tp5q8g685eman73ggampckg51vet7p27utigtjq3i0erv30h0i6d3mkq76m891qh4n84mbc" target="_blank" title="Click here to chat with Gopi"><img style="border: medium none ; margin: 0pt; padding: 0pt 2px 0pt 0pt;" src="http://www.google.com/talk/service/resources/chaticon.gif" alt="" width="16" height="14"><img style="border: medium none ; margin: 0pt; padding: 0pt 2px 0pt 0pt;" src="http://www.google.com/talk/service/badge/Show?tk=z01q6amlqdrbcu8ofki9eu2hef9eecu4jp7999vf6do8tlca1l1bsde3mgtj5jd1q3et8t3i6h13ku1rmup7sgm78v7gcsjp93tp5q8g685eman73ggampckg51vet7p27utigtjq3i0erv30h0i6d3mkq76m891qh4n84mbc&w=9&h=9" alt="" width="9" height="9">Google Talk</a>
+<br>
+
+<a style='font-weight:bold;color:#ff0000' href="http://edit.yahoo.com/config/send_webmesg?.target=tgkindia&.src=pg" target="new">Yahoo ?<img alt="Leave Gopi a Message" src="http://opi.yahoo.com/online?u=tgkindia&m=g&t=2" style="border: 0px solid ;"></a><a class="links" href="http://edit.yahoo.com/config/send_webmesg?.target=tgkindia&.src=pg" target="new"></a>
+<br>
+<!-- embed src="http://o.aolcdn.com/aim/web-aim/wimzi.swf?appKey=gt1143uCOwdNFEX5&theme=snowdust" type="application/x-shockwave-flash" width="190" height="275" ></embed -->			</td>
+		</tr>
+		</table>
+		<table cellpadding="0" cellspacing="0" class="moduletable">
+			<tr>
+			<th valign="top">
+				Date & Time			</th>
+
+		</tr>
+			<tr>
+			<td>
+				<div align=center style='text-align:center;' id="clock_div"> Date and Time - JavaScript required.</div>
+<script src="/script/swfobject.js" language="javascript"></script>
+<script type="text/javascript">
+  var clock = new SWFObject("/swf/flash_clock_html.swf", "clock", "150", "160", "8.0.0.0", "#f5f5ff", true)
+    clock.addParam("wmode", "window");
+    clock.addParam("align", "middle");
+    clock.addParam("scale", "scale");
+    clock.addVariable("gmt", "330");
+    clock.addVariable("bodycolor", "0x5088a9");
+    clock.addVariable("showlabelTextField", "true");
+    clock.addVariable("labelarray", "India");
+    clock.addVariable("labelTextField", "0:45:160:25");
+    clock.addVariable("labelTextFieldStyle","<p align='center'><font face='Arial' color='#ffa100' size='16'><b>[]</b></font></p>")
+    clock.addVariable("showdataTextField", "true");
+    clock.addVariable("dataTextField", "0:160:150:25");
+    clock.addVariable("dataTextFieldStyle","<p align='center'><font face='Arial' color='#5088a9' size='16'><b>[]</b></font></p>")
+//    clock.addVariable("showtimeTextField", "true");
+//    clock.addVariable("timeTextField", "0:195:150:25");
+//    clock.addVariable("timeTextFieldStyle","<p align='center'><font face='Arial' color='#5088a9' size='16'><b>[]</b></font></p>")
+  clock.addVariable("imagearray", "/images/flags/in.gif");
+
+    clock.write("clock_div");
+</script>
+			</td>
+		</tr>
+		</table>
+<!-- LEFTSIDE ITEMS END -->
+		</td>
+	<td class="maincol" valign="top">
+		<div style="padding:0px 2px 0px 2px;">
+			<div class="componentheading">
+	Welcome to Hi Gopi!</div>
+
+
+
+<!-- JOOMLA SITE GROUND TEMPLATE END 2 -->
+
+<div id="punwrap">
+<div id="punviewtopic" class="pun">
+
+<div id="brdheader" class="block">
+	<div class="box">
+		<div id="brdtitle" class="inbox">
+			<h1><span>HiGopi Forum</span></h1>
+			<p><span>Welcome to the Forum section of HiGopi.com</span></p>
+		</div>
+		<div id="brdmenu" class="inbox">
+			<ul>
+				<li id="navindex"><a href="index.php">Index</a></li>
+				<li id="navuserlist"><a href="userlist.php">User list</a></li>
+				<li id="navrules"><a href="misc.php?action=rules">Rules</a></li>
+				<li id="navsearch"><a href="search.php">Search</a></li>
+				<li id="navregister"><a href="register.php">Register</a></li>
+				<li id="navlogin"><a href="login.php">Login</a></li>
+			</ul>
+		</div>
+		<div id="brdwelcome" class="inbox">
+			<p>You are not logged in.</p>
+		</div>
+	</div>
+</div>
+
+<div id="announce" class="block">
+	<h2><span>Announcement</span></h2>
+	<div class="box">
+		<div class="inbox">
+			<div>Please bear the following rules to make this forum an information rich good online technical resource.<br> 
+<br>
+Technical discussions/informative posts only<br>
+No Marketing/Donation/Promotion posts<br>
+No personal attacks/verbal abuse<br>
+
+<br><b>NOTE: New users registrations are closed. Please send me an email if you wish to register in this forum.</b><br></div>
+		</div>
+	</div>
+</div>
+
+<div class="linkst">
+	<div class="inbox">
+		<p class="pagelink conl">Pages: <strong>1</strong></p>
+		<p class="postlink conr">&nbsp;</p>
+		<ul><li><a href="index.php">Index</a></li><li>&nbsp;&raquo;&nbsp;<a href="viewforum.php?id=2">Technical Doubts</a></li><li>&nbsp;&raquo;&nbsp;Need help in Transliteration</li></ul>
+		<div class="clearer"></div>
+	</div>
+</div>
+
+<div id="p146" class="blockpost rowodd firstpost">
+	<h2><span><span class="conr">#1&nbsp;</span><a href="viewtopic.php?pid=146#p146">28-Aug-2009,Fri 11:46:32</a></span></h2>
+	<div class="box">
+		<div class="inbox">
+			<div class="postleft">
+				<dl>
+					<dt><strong><a href="profile.php?id=112">karthizen</a></strong></dt>
+					<dd class="usertitle"><strong>Member</strong></dd>
+					<dd class="postavatar"></dd>
+				</dl>
+			</div>
+			<div class="postright">
+				<h3>Need help in Transliteration</h3>
+				<div class="postmsg">
+					<p>Hi,<br /><br />Currently I am working on a project where I need to convert the text typed in Hindi to English.&nbsp; Honestly, I&nbsp; am not having exposure with transliteration techniques &amp; after searching I found that Hindi to English transliteration can be done using IAST scheme.&nbsp; Is it possible for you to give me some ideas on doing this task?<br /><br />I am developing the application using c# &amp; it is a windows application.<br /><br />Regards,<br />karthik</p>
+				</div>
+			</div>
+			<div class="clearer"></div>
+			<div class="postfootleft"><p>Offline</p></div>
+			<div class="postfootright"><div>&nbsp;</div></div>
+		</div>
+	</div>
+</div>
+
+<div id="p148" class="blockpost roweven">
+	<h2><span><span class="conr">#2&nbsp;</span><a href="viewtopic.php?pid=148#p148">28-Aug-2009,Fri 11:58:10</a></span></h2>
+	<div class="box">
+		<div class="inbox">
+			<div class="postleft">
+				<dl>
+					<dt><strong><a href="profile.php?id=3">higopi</a></strong></dt>
+					<dd class="usertitle"><strong>Expert Member</strong></dd>
+					<dd class="postavatar"><img src="img/avatars/3.jpg" width="60" height="60" alt="" /></dd>
+				</dl>
+			</div>
+			<div class="postright">
+				<h3> Re: Need help in Transliteration</h3>
+				<div class="postmsg">
+					<p>Hi Karthizen,<br /><br />Its pretty simple to transliterate Hindi to English. For each combination of Hindi letter, you need to create a Hashmap with respective combination of English letters. And then you need to create a function which will read the complete Hindi text and refer to the hashmap and then transliterate one letter at a time.<br /><br />Can you please elaborate which encoding you are using for the Hindi text?</p>
+				</div>
+				<div class="postsignature"><hr />Thanks,<br /><br />Gopi<br />Pick any two of &quot;Quality, Quick, Cheap&quot; service from me.</div>
+			</div>
+			<div class="clearer"></div>
+			<div class="postfootleft"><p>Offline</p></div>
+			<div class="postfootright"><div>&nbsp;</div></div>
+		</div>
+	</div>
+</div>
+
+<div id="p149" class="blockpost rowodd">
+	<h2><span><span class="conr">#3&nbsp;</span><a href="viewtopic.php?pid=149#p149">28-Aug-2009,Fri 12:13:14</a></span></h2>
+	<div class="box">
+		<div class="inbox">
+			<div class="postleft">
+				<dl>
+					<dt><strong><a href="profile.php?id=112">karthizen</a></strong></dt>
+					<dd class="usertitle"><strong>Member</strong></dd>
+					<dd class="postavatar"></dd>
+				</dl>
+			</div>
+			<div class="postright">
+				<h3> Re: Need help in Transliteration</h3>
+				<div class="postmsg">
+					<p>Hi Gopi,<br /><br />Really happy to get your reply. Well, I am not using any encoding right now, for the past few hours I am searching the net for any useful information.<br /><br />Please help me out if you can.</p>
+				</div>
+			</div>
+			<div class="clearer"></div>
+			<div class="postfootleft"><p>Offline</p></div>
+			<div class="postfootright"><div>&nbsp;</div></div>
+		</div>
+	</div>
+</div>
+
+<div id="p150" class="blockpost roweven">
+	<h2><span><span class="conr">#4&nbsp;</span><a href="viewtopic.php?pid=150#p150">28-Aug-2009,Fri 12:30:33</a></span></h2>
+	<div class="box">
+		<div class="inbox">
+			<div class="postleft">
+				<dl>
+					<dt><strong><a href="profile.php?id=3">higopi</a></strong></dt>
+					<dd class="usertitle"><strong>Expert Member</strong></dd>
+					<dd class="postavatar"><img src="img/avatars/3.jpg" width="60" height="60" alt="" /></dd>
+				</dl>
+			</div>
+			<div class="postright">
+				<h3> Re: Need help in Transliteration</h3>
+				<div class="postmsg">
+					<p>Hi Karthizen,<br /><br />Can you please post me some Hindi text that you want to convert to English. This will make me understand which encoding you will be using for Hindi</p>
+				</div>
+				<div class="postsignature"><hr />Thanks,<br /><br />Gopi<br />Pick any two of &quot;Quality, Quick, Cheap&quot; service from me.</div>
+			</div>
+			<div class="clearer"></div>
+			<div class="postfootleft"><p>Offline</p></div>
+			<div class="postfootright"><div>&nbsp;</div></div>
+		</div>
+	</div>
+</div>
+
+<div id="p151" class="blockpost rowodd">
+	<h2><span><span class="conr">#5&nbsp;</span><a href="viewtopic.php?pid=151#p151">28-Aug-2009,Fri 12:39:35</a></span></h2>
+	<div class="box">
+		<div class="inbox">
+			<div class="postleft">
+				<dl>
+					<dt><strong><a href="profile.php?id=112">karthizen</a></strong></dt>
+					<dd class="usertitle"><strong>Member</strong></dd>
+					<dd class="postavatar"></dd>
+				</dl>
+			</div>
+			<div class="postright">
+				<h3> Re: Need help in Transliteration</h3>
+				<div class="postmsg">
+					<p>Hi Gopi,<br /><br />I guess it is time for me to read about various encoding techniques, Will do that.&nbsp; <br /><br />Well, My boss just asked me to find out a way to translate text from Hindi to English.&nbsp; That was the requirement given to me. Just one line.&nbsp; <br /><br />Please find below the sample text in Hindi,<br /><br />&#2360;&#2349;&#2368; &#2350;&#2344;&#2369;&#2359;&#2381;&#2351;&#2379;&#2306; &#2325;&#2379; &#2327;&#2380;&#2352;&#2357; &#2324;&#2352; &#2309;&#2343;&#2367;&#2325;&#2366;&#2352;&#2379;&#2306; &#2325;&#2375; &#2350;&#2366;&#2350;&#2354;&#2375; &#2350;&#2375;&#2306; &#2332;&#2344;&#2381;&#2350;&#2332;&#2366;&#2340; &#2360;&#2381;&#2357;&#2340;&#2344;&#2381;&#2340;&#2381;&#2352;&#2340;&#2366; &#2346;&#2381;&#2352;&#2366;&#2346;&#2381;&#2340; &#2361;&#2376;&#2404; &#2313;&#2344;&#2381;&#2361;&#2375;&#2306; &#2348;&#2369;&#2342;&#2381;&#2343;&#2367; &#2324;&#2352; &#2309;&#2344;&#2381;&#2340;&#2352;&#2366;&#2340;&#2381;&#2350;&#2366; &#2325;&#2368; &#2342;&#2375;&#2344; &#2346;&#2381;&#2352;&#2366;&#2346;&#2381;&#2340; &#2361;&#2376; &#2324;&#2352; &#2346;&#2352;&#2360;&#2381;&#2346;&#2352; &#2313;&#2344;&#2381;&#2361;&#2375;&#2306; &#2349;&#2366;&#2312;&#2330;&#2366;&#2352;&#2375; &#2325;&#2375; &#2349;&#2366;&#2357; &#2360;&#2375; &#2348;&#2352;&#2381;&#2340;&#2366;&#2357; &#2325;&#2352;&#2344;&#2366; &#2330;&#2366;&#2361;&#2367;&#2351;&#2375;&#2404; <br /><br />Regards,<br />Karthikeyan</p>
+				</div>
+			</div>
+			<div class="clearer"></div>
+			<div class="postfootleft"><p>Offline</p></div>
+			<div class="postfootright"><div>&nbsp;</div></div>
+		</div>
+	</div>
+</div>
+
+<div id="p152" class="blockpost roweven">
+	<h2><span><span class="conr">#6&nbsp;</span><a href="viewtopic.php?pid=152#p152">28-Aug-2009,Fri 14:49:03</a></span></h2>
+	<div class="box">
+		<div class="inbox">
+			<div class="postleft">
+				<dl>
+					<dt><strong><a href="profile.php?id=3">higopi</a></strong></dt>
+					<dd class="usertitle"><strong>Expert Member</strong></dd>
+					<dd class="postavatar"><img src="img/avatars/3.jpg" width="60" height="60" alt="" /></dd>
+				</dl>
+			</div>
+			<div class="postright">
+				<h3> Re: Need help in Transliteration</h3>
+				<div class="postmsg">
+					<p>Hi Karthizen,<br /><br />The posted text is in Unicode (UTF-8) encoding. The text can be converted using Umar online converter at <a href="http://www.higopi.com/ucedit/Multi.html">http://www.higopi.com/ucedit/Multi.html</a> as follows.<br /><br />sabhI manuS&#8203;yO\-m kO gaurava aura adhikArO\-m kE mAmalE mE\-m jan&#8203;majAta s&#8203;vatan&#8203;t&#8203;ratA p&#8203;rAp&#8203;ta hai&#2404; un&#8203;hE\-m bud&#8203;dhi aura an&#8203;tarAt&#8203;mA kI dEna p&#8203;rAp&#8203;ta hai aura paras&#8203;para un&#8203;hE\-m bhAIcArE kE bhAva sE bar&#8203;tAva karanA cAhiyE&#2404;<br /><br />As I explained in my previous reply, you need to create a hash map to hold English letters as keys and equivalent Hindi letters as values in that hash map.<br /><br />After creating the above hash map, you need to wrote a function to read the Hindi text typed and then substitute with the value from the above hash map.<br /><br />For example in JavaScript, please look in to the following files:<br /><br /><a href="http://www.higopi.com/script/ucedit/english.js">http://www.higopi.com/script/ucedit/english.js</a><br /><a href="http://www.higopi.com/script/ucedit/hindi.js">http://www.higopi.com/script/ucedit/hindi.js</a><br /><a href="http://www.higopi.com/script/ucedit/common.js">http://www.higopi.com/script/ucedit/common.js</a></p>
+				</div>
+				<div class="postsignature"><hr />Thanks,<br /><br />Gopi<br />Pick any two of &quot;Quality, Quick, Cheap&quot; service from me.</div>
+			</div>
+			<div class="clearer"></div>
+			<div class="postfootleft"><p>Offline</p></div>
+			<div class="postfootright"><div>&nbsp;</div></div>
+		</div>
+	</div>
+</div>
+
+<div id="p153" class="blockpost rowodd">
+	<h2><span><span class="conr">#7&nbsp;</span><a href="viewtopic.php?pid=153#p153">28-Aug-2009,Fri 17:27:24</a></span></h2>
+	<div class="box">
+		<div class="inbox">
+			<div class="postleft">
+				<dl>
+					<dt><strong><a href="profile.php?id=112">karthizen</a></strong></dt>
+					<dd class="usertitle"><strong>Member</strong></dd>
+					<dd class="postavatar"></dd>
+				</dl>
+			</div>
+			<div class="postright">
+				<h3> Re: Need help in Transliteration</h3>
+				<div class="postmsg">
+					<p>Hi Gopi,<br /><br />Thanks for your reply.&nbsp; I will follow the steps mentioned by you after this weekend.&nbsp; Will update you the progress.&nbsp; Thanks again.<br /><br />Have a nice weekend !!<br /><br />Regards,<br />Karthikeyan</p>
+				</div>
+			</div>
+			<div class="clearer"></div>
+			<div class="postfootleft"><p>Offline</p></div>
+			<div class="postfootright"><div>&nbsp;</div></div>
+		</div>
+	</div>
+</div>
+
+<div id="p154" class="blockpost roweven">
+	<h2><span><span class="conr">#8&nbsp;</span><a href="viewtopic.php?pid=154#p154">02-Sep-2009,Wed 08:58:44</a></span></h2>
+	<div class="box">
+		<div class="inbox">
+			<div class="postleft">
+				<dl>
+					<dt><strong><a href="profile.php?id=112">karthizen</a></strong></dt>
+					<dd class="usertitle"><strong>Member</strong></dd>
+					<dd class="postavatar"></dd>
+				</dl>
+			</div>
+			<div class="postright">
+				<h3> Re: Need help in Transliteration</h3>
+				<div class="postmsg">
+					<p>Hi Gopi,<br /><br />I am still working on the task of transliterating hindi to english. I am matching every hindi character to a English character like i have mentioned below,<br /><br />('&#2309;', &quot;A&quot;);<br />('&#2310;', &quot;Aa&quot;);<br />('&#2311;', &quot;I&quot;);<br />('&#2312;', &quot;Ee&quot;);<br /><br />I have used the site <a href="http://www.xs4all.nl/~wjsn/hindi.htm">http://www.xs4all.nl/~wjsn/hindi.htm</a>&nbsp; as reference,&nbsp; however i feel this is not up to the mark.&nbsp; Where can I find the Hindi - English transliteration character(mapping) set or we need to create it on our own?<br /><br />Regards,<br />karthik</p>
+				</div>
+			</div>
+			<div class="clearer"></div>
+			<div class="postfootleft"><p>Offline</p></div>
+			<div class="postfootright"><div>&nbsp;</div></div>
+		</div>
+	</div>
+</div>
+
+<div id="p155" class="blockpost rowodd">
+	<h2><span><span class="conr">#9&nbsp;</span><a href="viewtopic.php?pid=155#p155">02-Sep-2009,Wed 09:32:06</a></span></h2>
+	<div class="box">
+		<div class="inbox">
+			<div class="postleft">
+				<dl>
+					<dt><strong><a href="profile.php?id=3">higopi</a></strong></dt>
+					<dd class="usertitle"><strong>Expert Member</strong></dd>
+					<dd class="postavatar"><img src="img/avatars/3.jpg" width="60" height="60" alt="" /></dd>
+				</dl>
+			</div>
+			<div class="postright">
+				<h3> Re: Need help in Transliteration</h3>
+				<div class="postmsg">
+					<p>Hi Karthizen,<br /><br />Yes you need to create a new Hindi - English transliteration map. But you do not need to create it for each and every literal. You can create it just for Vowels, Consonants and Vowel suffixes</p>
+					<p class="postedit"><em>Last edited by higopi (02-Sep-2009,Wed 09:44:22)</em></p>
+				</div>
+				<div class="postsignature"><hr />Thanks,<br /><br />Gopi<br />Pick any two of &quot;Quality, Quick, Cheap&quot; service from me.</div>
+			</div>
+			<div class="clearer"></div>
+			<div class="postfootleft"><p>Offline</p></div>
+			<div class="postfootright"><div>&nbsp;</div></div>
+		</div>
+	</div>
+</div>
+
+<div id="p156" class="blockpost roweven">
+	<h2><span><span class="conr">#10&nbsp;</span><a href="viewtopic.php?pid=156#p156">07-Sep-2009,Mon 08:06:57</a></span></h2>
+	<div class="box">
+		<div class="inbox">
+			<div class="postleft">
+				<dl>
+					<dt><strong><a href="profile.php?id=112">karthizen</a></strong></dt>
+					<dd class="usertitle"><strong>Member</strong></dd>
+					<dd class="postavatar"></dd>
+				</dl>
+			</div>
+			<div class="postright">
+				<h3> Re: Need help in Transliteration</h3>
+				<div class="postmsg">
+					<p>Hi Gopi,<br /><br />As you suggested, I did create a transliteration map like the following with the help of <a href="http://www.xs4all.nl/~wjsn/hindi.htm,">http://www.xs4all.nl/~wjsn/hindi.htm,</a><br /><br />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; _transDic.Add('&#2309;', &quot;A&quot;);<br />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; _transDic.Add('&#2310;', &quot;Aa&quot;);<br />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; _transDic.Add('&#2311;', &quot;I&quot;);<br />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; _transDic.Add('&#2312;', &quot;Ee&quot;);<br />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; _transDic.Add('&#2313;', &quot;U&quot;);<br />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; _transDic.Add('&#2314;', &quot;Oo&quot;);<br />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; _transDic.Add('&#2315;', &quot;Ri&quot;);<br />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; _transDic.Add('&#2316;', &quot;LI&quot;);<br />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; _transDic.Add('&#2317;', &quot;EI&quot;);<br />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; _transDic.Add('&#2318;', &quot;Ell&quot;);<br />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; _transDic.Add('&#2319;', &quot;E&quot;);<br />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; _transDic.Add('&#2320;', &quot;Ey&quot;);<br />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; _transDic.Add('&#2321;', &quot;OI&quot;);<br />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; _transDic.Add('&#2322;', &quot;OII&quot;);<br />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; _transDic.Add('&#2323;', &quot;O&quot;);<br />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; _transDic.Add('&#2324;', &quot;Ou&quot;);<br />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; _transDic.Add('&#2325;', &quot;K&quot;);<br />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; _transDic.Add('&#2326;', &quot;Kh&quot;);<br />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; _transDic.Add('&#2327;', &quot;G&quot;);<br />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; _transDic.Add('&#2328;', &quot;Gh&quot;);<br />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; _transDic.Add('&#2329;', &quot;N'&quot;); <br />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; _transDic.Add('&#2330;', &quot;Ch&quot;);<br />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; _transDic.Add('&#2331;', &quot;Chh&quot;);<br />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; _transDic.Add('&#2332;', &quot;J&quot;);<br />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; _transDic.Add('&#2333;', &quot;Jh&quot;);<br />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; _transDic.Add('&#2334;', &quot;N'&quot;);<br />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; _transDic.Add('&#2335;', &quot;T&quot;);<br />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; _transDic.Add('&#2336;', &quot;Th&quot;);<br />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; _transDic.Add('&#2337;', &quot;D&quot;);<br />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; _transDic.Add('&#2338;', &quot;Dh&quot;);<br />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; _transDic.Add('&#2339;', &quot;N'&quot;);<br />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; _transDic.Add('&#2340;', &quot;T'&quot;);<br />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; _transDic.Add('&#2341;', &quot;T'h&quot;);<br />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; _transDic.Add('&#2342;', &quot;Th&quot;);<br />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; _transDic.Add('&#2343;', &quot;Thh&quot;);<br />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; _transDic.Add('&#2344;', &quot;N&quot;);<br />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; _transDic.Add('&#2345;', &quot;NI&quot;);<br />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; _transDic.Add('&#2346;', &quot;P&quot;);<br />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; _transDic.Add('&#2347;', &quot;F&quot;);<br />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; _transDic.Add('&#2348;', &quot;B&quot;);<br />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; _transDic.Add('&#2349;', &quot;Bh&quot;);<br />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; _transDic.Add('&#2350;', &quot;M&quot;);<br />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; _transDic.Add('&#2351;', &quot;Y&quot;);<br />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; _transDic.Add('&#2352;', &quot;R&quot;);<br />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; _transDic.Add('&#2353;', &quot;RI&quot;);<br />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; _transDic.Add('&#2354;', &quot;L&quot;);<br />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; _transDic.Add('&#2355;', &quot;LI&quot;);<br />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; _transDic.Add('&#2356;', &quot;LII&quot;);<br />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; _transDic.Add('&#2357;', &quot;V&quot;);<br />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; _transDic.Add('&#2358;', &quot;Sh&quot;);<br />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; _transDic.Add('&#2359;', &quot;Shh&quot;);<br />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; _transDic.Add('&#2360;', &quot;S&quot;);<br />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; _transDic.Add('&#2361;', &quot;H&quot;);<br />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; _transDic.Add('&#2384;', &quot;Oms&quot;);<br />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; _transDic.Add('&#2393;', &quot;Khl&quot;);<br />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; _transDic.Add('&#2394;', &quot;Ghl&quot;);<br />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; _transDic.Add('&#2395;', &quot;Z&quot;);<br />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; _transDic.Add('&#2396;', &quot;ugDh&quot;);<br />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; _transDic.Add('&#2397;', &quot;ugDhh&quot;);<br />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; _transDic.Add('&#2398;', &quot;FI&quot;);<br />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; _transDic.Add('&#2399;', &quot;YI&quot;);<br />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; _transDic.Add('&#2400;', &quot;Ri&quot;);<br />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; _transDic.Add('&#2401;', &quot;LII&quot;); <br /><br />However, when I copy &amp; pasted the following hindi text <br /><br />&#2348;&#2368;&#2348;&#2368;&#2360;&#2368; &#2360;&#2306;&#2357;&#2366;&#2342;&#2342;&#2366;&#2340;&#2366; &#2325;&#2375; &#2309;&#2344;&#2369;&#2360;&#2366;&#2352; &#2351;&#2361; &#2342;&#2370;&#2360;&#2352;&#2366; &#2346;&#2381;&#2352;&#2360;&#2381;&#2340;&#2366;&#2357; &#2360;&#2369;&#2352;&#2325;&#2381;&#2359;&#2366; &#2346;&#2352;&#2367;&#2359;&#2342; &#2325;&#2375; &#2360;&#2342;&#2360;&#2381;&#2351;&#2379;&#2306; &#2325;&#2379; &#2346;&#2367;&#2331;&#2354;&#2366; &#2346;&#2381;&#2352;&#2360;&#2381;&#2340;&#2366;&#2357; &#2346;&#2366;&#2352;&#2367;&#2340; &#2325;&#2367;&#2319; &#2332;&#2366;&#2344;&#2375; &#2325;&#2375; &#2360;&#2350;&#2351; &#2313;&#2344;&#2325;&#2375; &#2342;&#2381;&#2357;&#2366;&#2352;&#2366; &#2313;&#2336;&#2366;&#2312; &#2332;&#2364;&#2367;&#2350;&#2381;&#2350;&#2375;&#2342;&#2366;&#2352;&#2368; &#2325;&#2368; &#2351;&#2366;&#2342; &#2349;&#2368; <br /><br />it returns<br /><br />B&#2368;B&#2368;S&#2368; S&#2306;V&#2366;ThTh&#2366;T'&#2366; K&#2375; AN&#2369;S&#2366;R YH Th&#2370;SR&#2366; P&#2381;RS&#2381;T'&#2366;V S&#2369;RK&#2381;Shh&#2366; PR&#2367;ShhTh K&#2375; SThS&#2381;Y&#2379;&#2306; K&#2379; P&#2367;ChhL&#2366; P&#2381;RS&#2381;T'&#2366;V P&#2366;R&#2367;T' K&#2367;E J&#2366;N&#2375; K&#2375; SMY UNK&#2375; Th&#2381;V&#2366;R&#2366; UTh&#2366;Ee J&#2364;&#2367;M&#2381;M&#2375;Th&#2366;R&#2368; K&#2368; Y&#2366;Th Bh&#2368; <br /><br />which it should not,<br /><br />Where did I go wrong?<br /><br />Please help....<br /><br />Thanks,<br />Karthikeyan</p>
+					<p class="postedit"><em>Last edited by karthizen (07-Sep-2009,Mon 08:08:19)</em></p>
+				</div>
+			</div>
+			<div class="clearer"></div>
+			<div class="postfootleft"><p>Offline</p></div>
+			<div class="postfootright"><div>&nbsp;</div></div>
+		</div>
+	</div>
+</div>
+
+<div id="p157" class="blockpost rowodd">
+	<h2><span><span class="conr">#11&nbsp;</span><a href="viewtopic.php?pid=157#p157">07-Sep-2009,Mon 09:02:49</a></span></h2>
+	<div class="box">
+		<div class="inbox">
+			<div class="postleft">
+				<dl>
+					<dt><strong><a href="profile.php?id=3">higopi</a></strong></dt>
+					<dd class="usertitle"><strong>Expert Member</strong></dd>
+					<dd class="postavatar"><img src="img/avatars/3.jpg" width="60" height="60" alt="" /></dd>
+				</dl>
+			</div>
+			<div class="postright">
+				<h3> Re: Need help in Transliteration</h3>
+				<div class="postmsg">
+					<p>You missed out Vowel suffixes like below:<br /><br /></p><div class="codebox"><div class="incqbox"><h4>Code:</h4><div class="scrollbox" style="height: 9em"><pre>_transDic.Add('&#2367;', &quot;i&quot;);    // character \u093f
+_transDic.Add('&#2368;', &quot;Ii&quot;);  //  character \u0940
+_transDic.Add('&#2369;', &quot;u&quot;);   // character  \u0941
+_transDic.Add('&#2370;', &quot;Uu&quot;); // character  \u0942</pre></div></div></div><p>Add like this for every vowel suffix. Also, you need to find a way to differentiate and handle the true Consonant like '&#2325;&#8204;' = K and Consonant+'a' Vowel combination like '&#2325;&#8204;' = 'Ka'. Because the literal is same for both.<br /><br />You can use <a href="http://rishida.net/tools/conversion/">http://rishida.net/tools/conversion/</a> for splitting out the vowel suffixes from&nbsp; Consonant+Vowel suffix combination</p>
+					<p class="postedit"><em>Last edited by higopi (07-Sep-2009,Mon 09:04:42)</em></p>
+				</div>
+				<div class="postsignature"><hr />Thanks,<br /><br />Gopi<br />Pick any two of &quot;Quality, Quick, Cheap&quot; service from me.</div>
+			</div>
+			<div class="clearer"></div>
+			<div class="postfootleft"><p>Offline</p></div>
+			<div class="postfootright"><div>&nbsp;</div></div>
+		</div>
+	</div>
+</div>
+
+<div id="p158" class="blockpost roweven">
+	<h2><span><span class="conr">#12&nbsp;</span><a href="viewtopic.php?pid=158#p158">07-Sep-2009,Mon 09:25:32</a></span></h2>
+	<div class="box">
+		<div class="inbox">
+			<div class="postleft">
+				<dl>
+					<dt><strong><a href="profile.php?id=112">karthizen</a></strong></dt>
+					<dd class="usertitle"><strong>Member</strong></dd>
+					<dd class="postavatar"></dd>
+				</dl>
+			</div>
+			<div class="postright">
+				<h3> Re: Need help in Transliteration</h3>
+				<div class="postmsg">
+					<p>Hi Gopi,<br /><br />Thanks a lot for your reply.&nbsp; Let me start my search to find out the vowel suffices. <img src="img/smilies/smile.png" width="15" height="15" alt="smile" /></p>
+				</div>
+			</div>
+			<div class="clearer"></div>
+			<div class="postfootleft"><p>Offline</p></div>
+			<div class="postfootright"><div>&nbsp;</div></div>
+		</div>
+	</div>
+</div>
+
+<div id="p164" class="blockpost rowodd">
+	<h2><span><span class="conr">#13&nbsp;</span><a href="viewtopic.php?pid=164#p164">24-Sep-2009,Thu 11:36:55</a></span></h2>
+	<div class="box">
+		<div class="inbox">
+			<div class="postleft">
+				<dl>
+					<dt><strong><a href="profile.php?id=117">Shashidhar</a></strong></dt>
+					<dd class="usertitle"><strong>New member</strong></dd>
+					<dd class="postavatar"></dd>
+				</dl>
+			</div>
+			<div class="postright">
+				<h3> Re: Need help in Transliteration</h3>
+				<div class="postmsg">
+					<p>hi gopi this is shashidhar here, i have an requirement to convert&nbsp; the text entered in English to kannada, when i go throug your forum just i understood that the procedures to follow to convert but,but how can i do for it kannada, when to call that script function,<br />please give me a instructions please.</p>
+				</div>
+			</div>
+			<div class="clearer"></div>
+			<div class="postfootleft"><p>Offline</p></div>
+			<div class="postfootright"><div>&nbsp;</div></div>
+		</div>
+	</div>
+</div>
+
+<div id="p165" class="blockpost roweven">
+	<h2><span><span class="conr">#14&nbsp;</span><a href="viewtopic.php?pid=165#p165">24-Sep-2009,Thu 15:46:04</a></span></h2>
+	<div class="box">
+		<div class="inbox">
+			<div class="postleft">
+				<dl>
+					<dt><strong><a href="profile.php?id=3">higopi</a></strong></dt>
+					<dd class="usertitle"><strong>Expert Member</strong></dd>
+					<dd class="postavatar"><img src="img/avatars/3.jpg" width="60" height="60" alt="" /></dd>
+				</dl>
+			</div>
+			<div class="postright">
+				<h3> Re: Need help in Transliteration</h3>
+				<div class="postmsg">
+					<p>Hi Shashidhar,<br /><br />In case if you are implementing it in a web page, it can be readily available for Kannada by following the instructions at <a href="http://www.higopi.com/ucedit/Reuse.html?kannada">http://www.higopi.com/ucedit/Reuse.html?kannada</a><br /><br />If you are creating it for a standalone application like Karthizen explained in this thread,The process and logic is pretty much same. Only the map is different for Kannada, Please refer <a href="http://www.unicodemap.org/range/22/Kannada/">http://www.unicodemap.org/range/22/Kannada/</a> for complete code point list for Kannada.<br /><br />Let me know if you have any further clarifications.</p>
+				</div>
+				<div class="postsignature"><hr />Thanks,<br /><br />Gopi<br />Pick any two of &quot;Quality, Quick, Cheap&quot; service from me.</div>
+			</div>
+			<div class="clearer"></div>
+			<div class="postfootleft"><p>Offline</p></div>
+			<div class="postfootright"><div>&nbsp;</div></div>
+		</div>
+	</div>
+</div>
+
+<div id="p199" class="blockpost rowodd">
+	<h2><span><span class="conr">#15&nbsp;</span><a href="viewtopic.php?pid=199#p199">27-Dec-2009,Sun 17:49:06</a></span></h2>
+	<div class="box">
+		<div class="inbox">
+			<div class="postleft">
+				<dl>
+					<dt><strong><a href="profile.php?id=143">manik</a></strong></dt>
+					<dd class="usertitle"><strong>New member</strong></dd>
+					<dd class="postavatar"></dd>
+				</dl>
+			</div>
+			<div class="postright">
+				<h3> Re: Need help in Transliteration</h3>
+				<div class="postmsg">
+					<p>hi gopi,<br /><br />i want to design a tts system for hindi language. as a first step i want to transliterate hindi text(unicode) to roman script using transliteration map so that i can feed that converted doc to festival engine for speech synthesis.<br />i have searched a lot on internet but i could not found any tool, method for implementing transliteration. Plz suggest me a proper tool or language through which i can be able to convert my hindi text doc.<br /><br />thanks</p>
+				</div>
+			</div>
+			<div class="clearer"></div>
+			<div class="postfootleft"><p>Offline</p></div>
+			<div class="postfootright"><div>&nbsp;</div></div>
+		</div>
+	</div>
+</div>
+
+<div id="p290" class="blockpost roweven">
+	<h2><span><span class="conr">#16&nbsp;</span><a href="viewtopic.php?pid=290#p290">13-Apr-2011,Wed 08:46:19</a></span></h2>
+	<div class="box">
+		<div class="inbox">
+			<div class="postleft">
+				<dl>
+					<dt><strong><a href="profile.php?id=282">rosejhon</a></strong></dt>
+					<dd class="usertitle"><strong>New member</strong></dd>
+					<dd class="postavatar"></dd>
+				</dl>
+			</div>
+			<div class="postright">
+				<h3> Re: Need help in Transliteration</h3>
+				<div class="postmsg">
+					<p>is there any software that is much better to convert any language to another ?</p>
+				</div>
+			</div>
+			<div class="clearer"></div>
+			<div class="postfootleft"><p>Offline</p></div>
+			<div class="postfootright"><div>&nbsp;</div></div>
+		</div>
+	</div>
+</div>
+
+<div id="p291" class="blockpost rowodd">
+	<h2><span><span class="conr">#17&nbsp;</span><a href="viewtopic.php?pid=291#p291">13-Apr-2011,Wed 11:11:43</a></span></h2>
+	<div class="box">
+		<div class="inbox">
+			<div class="postleft">
+				<dl>
+					<dt><strong><a href="profile.php?id=3">higopi</a></strong></dt>
+					<dd class="usertitle"><strong>Expert Member</strong></dd>
+					<dd class="postavatar"><img src="img/avatars/3.jpg" width="60" height="60" alt="" /></dd>
+				</dl>
+			</div>
+			<div class="postright">
+				<h3> Re: Need help in Transliteration</h3>
+				<div class="postmsg">
+					<p>Hi rosejhon,<br /><br />Definitely there are better free software available for converting between one language to another.<br /><br />If you are looking for converting from Tamil to English, you can use the &quot;Reverse Transliteration&quot; feature of &quot;Azhagi&quot; software developed by my friend Vishy. For more details you can see <a href="http://azhagi.com/help/azpowerreversetransliteration.html">http://azhagi.com/help/azpowerreversetr &hellip; ation.html</a><br /><br />If you are looking for converting between various Indic languages, you can try the NHM IndicTransliterator Firefox addon from &quot;New Horizon Media&quot;. More details at <a href="http://software.nhm.in/products/t12r">http://software.nhm.in/products/t12r</a></p>
+				</div>
+				<div class="postsignature"><hr />Thanks,<br /><br />Gopi<br />Pick any two of &quot;Quality, Quick, Cheap&quot; service from me.</div>
+			</div>
+			<div class="clearer"></div>
+			<div class="postfootleft"><p>Offline</p></div>
+			<div class="postfootright"><div>&nbsp;</div></div>
+		</div>
+	</div>
+</div>
+
+<div id="p296" class="blockpost roweven">
+	<h2><span><span class="conr">#18&nbsp;</span><a href="viewtopic.php?pid=296#p296">20-Apr-2011,Wed 06:49:45</a></span></h2>
+	<div class="box">
+		<div class="inbox">
+			<div class="postleft">
+				<dl>
+					<dt><strong><a href="profile.php?id=287">Jhonsons</a></strong></dt>
+					<dd class="usertitle"><strong>New member</strong></dd>
+					<dd class="postavatar"></dd>
+				</dl>
+			</div>
+			<div class="postright">
+				<h3> Re: Need help in Transliteration</h3>
+				<div class="postmsg">
+					<p>Thanks gopi i also learned a lot but if i want to translate a documents into multi national languages then what type of software you can suggest me ?</p>
+				</div>
+			</div>
+			<div class="clearer"></div>
+			<div class="postfootleft"><p>Offline</p></div>
+			<div class="postfootright"><div>&nbsp;</div></div>
+		</div>
+	</div>
+</div>
+
+<div id="p299" class="blockpost rowodd">
+	<h2><span><span class="conr">#19&nbsp;</span><a href="viewtopic.php?pid=299#p299">20-Apr-2011,Wed 10:58:56</a></span></h2>
+	<div class="box">
+		<div class="inbox">
+			<div class="postleft">
+				<dl>
+					<dt><strong><a href="profile.php?id=3">higopi</a></strong></dt>
+					<dd class="usertitle"><strong>Expert Member</strong></dd>
+					<dd class="postavatar"><img src="img/avatars/3.jpg" width="60" height="60" alt="" /></dd>
+				</dl>
+			</div>
+			<div class="postright">
+				<h3> Re: Need help in Transliteration</h3>
+				<div class="postmsg">
+					<p>Jhonsons,<br /><br />For translation, google is a good tool. try translate.google.com</p>
+				</div>
+				<div class="postsignature"><hr />Thanks,<br /><br />Gopi<br />Pick any two of &quot;Quality, Quick, Cheap&quot; service from me.</div>
+			</div>
+			<div class="clearer"></div>
+			<div class="postfootleft"><p>Offline</p></div>
+			<div class="postfootright"><div>&nbsp;</div></div>
+		</div>
+	</div>
+</div>
+
+<div id="p319" class="blockpost roweven">
+	<h2><span><span class="conr">#20&nbsp;</span><a href="viewtopic.php?pid=319#p319">24-May-2011,Tue 06:23:18</a></span></h2>
+	<div class="box">
+		<div class="inbox">
+			<div class="postleft">
+				<dl>
+					<dt><strong><a href="profile.php?id=310">whitehilton</a></strong></dt>
+					<dd class="usertitle"><strong>Banned</strong></dd>
+					<dd class="postavatar"></dd>
+				</dl>
+			</div>
+			<div class="postright">
+				<h3> Re: Need help in Transliteration</h3>
+				<div class="postmsg">
+					<p>I also acted upon your suggestion and i found it better and downloaded Google toolbar and used translator.Thanks.</p>
+				</div>
+			</div>
+			<div class="clearer"></div>
+			<div class="postfootleft"><p>Offline</p></div>
+			<div class="postfootright"><div>&nbsp;</div></div>
+		</div>
+	</div>
+</div>
+
+<div class="postlinksb">
+	<div class="inbox">
+		<p class="postlink conr">&nbsp;</p>
+		<p class="pagelink conl">Pages: <strong>1</strong></p>
+		<ul><li><a href="index.php">Index</a></li><li>&nbsp;&raquo;&nbsp;<a href="viewforum.php?id=2">Technical Doubts</a></li><li>&nbsp;&raquo;&nbsp;Need help in Transliteration</li></ul>
+		<div class="clearer"></div>
+	</div>
+</div>
+
+<div id="brdfooter" class="block">
+	<h2><span>Board footer</span></h2>
+	<div class="box">
+		<div class="inbox">
+
+			<div class="conl">
+				<form id="qjump" method="get" action="viewforum.php">
+					<div><label>Jump to
+					<br /><select name="id" onchange="window.location=('viewforum.php?id='+this.options[this.selectedIndex].value)">
+						<optgroup label="Technical">
+							<option value="5">IT Jobs in India</option>
+							<option value="2" selected="selected">Technical Doubts</option>
+							<option value="4">Java Technology</option>
+							<option value="3">Indian Language Software</option>
+						</optgroup>
+						<optgroup label="Others">
+							<option value="7">General</option>
+					</optgroup>
+					</select>
+					<input type="submit" value=" Go " accesskey="g" />
+					</label></div>
+				</form>
+			</div>
+			<p class="conr">Powered by <a href="http://punbb.informer.com/">PunBB</a><br />&copy; Copyright 2002&#8211;2008 PunBB</p>
+			<div class="clearer"></div>
+		</div>
+	</div>
+</div>
+
+</div>
+</div>
+<!-- JOOMLA SITE GROUND TEMPLATE START 3 -->
+</div>
+</td>
+	<td class="rightcol" valign="top">
+				<table class="moduletable" cellpadding="0" cellspacing="0">
+			<tbody><tr>
+			<th valign="top">
+				Google Ads			</th>
+		</tr>
+			<tr>
+			<td>
+				<div style="text-align: center;">
+<script type="text/javascript"><!--
+google_ad_client = "pub-5262009510690646";
+/* 160x600, created 24/11/08 */
+google_ad_slot = "1340162236";
+google_ad_width = 160;
+google_ad_height = 600;
+//-->
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script>
+</div>			</td>
+		</tr>
+		</tbody></table>
+
+	</td>
+</tr></table>
+<div class="footer_bg">
+<div class="footer">
+<table>
+<tbody><tr><td style="width: 625px; color: rgb(255, 255, 255); text-align: left;">
+ 	Powered by <a href="http://joomla.org/" class="sgfooter" target="_blank"><b>Joomla!</b></a>; Template modified from <a href="http://www.siteground.com/joomla-hosting/joomla-templates.htm" target="_blank" class="sgfooter">SiteGround.com's <b>Blue Fairy</b>.</a> </td>
+
+<td style="width: 625px; color: rgb(255, 255, 255); text-align: right;" align="right">Please send your suggestions to <a href="mailto:webmaster@higopi.com" title="mail" style="color: rgb(255, 255, 255);"><img src="/images/mailgif/webmaster.gif" align="top" border="0"></a>
+ to improve this site.</td></tr></tbody></table>
+ </div>
+</div>
+
+<div style="text-align: center;">  	<table class="moduletable" cellpadding="0" cellspacing="0">
+			<tbody><tr>
+			<td>
+<script type="text/javascript">
+google_ad_client = "pub-5262009510690646";
+google_ad_type = "text";
+google_ad_channel = "";
+google_ad_slot = "2182111640";
+google_ad_width = 728;
+google_ad_height = 90;
+google_ad_format = "728x90_as";
+
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script>
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-1027973-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+</td>
+		</tr>
+		</tbody></table>
+	 </div>
+
+</div>
+</center>
+
+<script language="JavaScript">
+function toggleScreen()
+{
+	objectId = "logo";
+    // cross-browser function to get an object's style object given its
+    if(document.getElementById && document.getElementById(objectId)) {
+	// W3C DOM
+	styleObj = document.getElementById(objectId).style;
+    } else if (document.all && document.all(objectId)) {
+	// MSIE 4 DOM
+	styleObj = document.all(objectId).style;
+    } else if (document.layers && document.layers[objectId]) {
+	// NN 4 DOM.. note: this won't find nested layers
+	styleObj = document.layers[objectId];
+    } else {
+	return false;
+    }
+    if(styleObj.paddingTop == "" || styleObj.paddingTop == "156px")
+    {
+	    styleObj.paddingTop = "56px";
+		document.getElementById("updownarrow").src = "/templates/siteground39/images/downarrow.gif";
+		setCookie("ScreenPref","Half",365);
+    }
+    else
+    {
+	    styleObj.paddingTop = "156px";
+	    document.getElementById("updownarrow").src = "/templates/siteground39/images/uparrow.gif";
+	    setCookie("ScreenPref","Full",365);
+    }
+}
+
+function setCookie(c_name,value,expiredays)
+{
+var exdate=new Date();
+exdate.setDate(exdate.getDate()+expiredays);
+document.cookie=c_name+ "=" +escape(value)+
+((expiredays==null) ? "" : ";expires="+exdate.toGMTString()) + ";path=/";
+}
+
+function getCookie(c_name)
+{
+if (document.cookie.length>0)
+  {
+  c_start=document.cookie.indexOf(c_name + "=");
+  if (c_start!=-1)
+    {
+    c_start=c_start + c_name.length+1;
+    c_end=document.cookie.indexOf(";",c_start);
+    if (c_end==-1) c_end=document.cookie.length;
+    return unescape(document.cookie.substring(c_start,c_end));
+    }
+  }
+return "";
+}
+
+if(getCookie("ScreenPref") == "Half")
+	toggleScreen();
+</script>
+
+
+<!-- JOOMLA SITE GROUND TEMPLATE END 3 -->
+
+</body>
+</html>

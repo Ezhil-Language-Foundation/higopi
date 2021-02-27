@@ -1,0 +1,22 @@
+Manifest-Version: 1.0
+
+Name: install.rdf
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: PjlbCpW2IBHdZ3b7w/BEhg==
+SHA1-Digest: +QL+Kun597ruxBIj1/S0NW1W9do=
+
+Name: chrome.manifest
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: ff7bhSiGwa3DDRWgaq1INg==
+SHA1-Digest: GiP71+eGlIVhbfwKm0gS7zx2N+Q=
+
+Name: chrome/tamilkey.jar
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: RxT1KeBSJN6HPogN+QMojw==
+SHA1-Digest: DOnX+zgm1YR/mocQ9EnZM5eP/js=
+
+Name: defaults/preferences/tamilkey.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: g/+XoxbWJQBGnaps6DYL0Q==
+SHA1-Digest: R5HmKabSEe1WZyF0u1OpR10lZVs=
+

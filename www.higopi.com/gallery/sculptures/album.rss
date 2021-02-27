@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+
+    <channel>
+        <title>Sculptures</title>
+   	<link>.</link>
+        <generator>Jalbum 8.9</generator>
+   		<description></description>
+        
+        
+        <item>
+            <title>chalksculpture1a</title>
+            <link>slides/chalksculpture1a.html#</link>
+            <pubDate>Thu, 15 Jul 2010 15:29:11 +0530</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/chalksculpture1a.jpg" width="124" height="49"/>
+            <media:content type="image/jpeg" url="slides/chalksculpture1a.jpg" width="640" height="253"/>
+            
+            
+            <guid isPermaLink="false">slides/chalksculpture1a.jpg</guid>
+        </item>
+        
+        <item>
+            <title>chalksculpture1b</title>
+            <link>slides/chalksculpture1b.html#</link>
+            <pubDate>Thu, 15 Jul 2010 15:29:11 +0530</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/chalksculpture1b.jpg" width="124" height="119"/>
+            <media:content type="image/jpeg" url="slides/chalksculpture1b.jpg" width="500" height="480"/>
+            
+            
+            <guid isPermaLink="false">slides/chalksculpture1b.jpg</guid>
+        </item>
+        
+        <item>
+            <title>chalksculpture1c</title>
+            <link>slides/chalksculpture1c.html#</link>
+            <pubDate>Thu, 15 Jul 2010 15:29:11 +0530</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/chalksculpture1c.jpg" width="124" height="49"/>
+            <media:content type="image/jpeg" url="slides/chalksculpture1c.jpg" width="640" height="254"/>
+            
+            
+            <guid isPermaLink="false">slides/chalksculpture1c.jpg</guid>
+        </item>
+        
+        <item>
+            <title>chalksculpture1d</title>
+            <link>slides/chalksculpture1d.html#</link>
+            <pubDate>Thu, 15 Jul 2010 15:29:11 +0530</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/chalksculpture1d.jpg" width="115" height="124"/>
+            <media:content type="image/jpeg" url="slides/chalksculpture1d.jpg" width="448" height="480"/>
+            
+            
+            <guid isPermaLink="false">slides/chalksculpture1d.jpg</guid>
+        </item>
+        
+    </channel>
+</rss>

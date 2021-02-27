@@ -1,0 +1,624 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" dir="ltr">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>HiGopi Forum / Multi Langauge Typing select opiton</title>
+<link rel="stylesheet" type="text/css" href="style/Discuz5.css" />
+<!-- JOOMLA SITE GROUND TEMPLATE START 1 -->
+<link rel="stylesheet" type="text/css" href="/templates/siteground39/css/template_css_alt.css" />
+<!-- JOOMLA SITE GROUND TEMPLATE END 1 -->
+</head>
+<body class="body">
+
+<!-- JOOMLA SITE GROUND TEMPLATE START 2 -->
+<center>
+<div class="topmaincol">
+		<div class="divpath">
+			<div style="float: left; height: 33px; padding-top: 8px;">
+							</div>
+			<div style="padding: 10px 10px 0pt; float: right; height: 33px;">
+				<a href="/"><img src="/templates/siteground39/images/home.gif" alt="Home" title="Home" border="0"></a>&nbsp;&nbsp;&nbsp;
+				<a href="/aboutme-en.html"><img src="/templates/siteground39/images/mail.gif" alt="Contacts" title="Contacts" border="0"></a>
+			</div>
+		</div>
+</div>
+<div id="sitename">HiGopi.Com - Gopi's Web Home</div>
+<div id="logo">
+		<div id="menu">
+	<div class="menuc">
+		<div id="topnavi">
+			<ul>
+			<li><a id="tab1" href="/" class="noc"><span>HOME</span></a></li><li><a id="tab2" href="/gallery/" class="noc"><span>GALLERY</span></a></li><li><a id="tab3" href="/tools/" class="noc"><span>TOOLS</span></a></li><li><a id="tab4" href="/downloads/" class="noc"><span>DOWNLOADS</span></a></li><li><a id="tab5" href="/games/" class="noc"><span>GAMES</span></a></li><li><a id="tab6" href="/news/" class="noc"><span>NEWS</span></a></li><li><a id="tab8" href="/forum/" class="current"><span>FORUM</span></a></li><li><a id="tab8" href="/blogs-more/" class="noc"><span>BLOGS &amp; MORE</span></a></li><li><a id="tab9" href="/aboutme-en.html" class="noc"><span>ABOUT</span></a></li>			</ul>
+			<div valign="bottom" style="padding-top: 6px; float: right;" align="right"><a href="javascript:toggleScreen();"><img id="updownarrow" src="/templates/siteground39/images/uparrow.gif" alt="Up/Down" border="0"></a></div>
+		</div>
+	</div>
+</div>
+
+<div id="container">
+<table cellpadding="0" cellspacing="0">
+	<tr>
+	<td class="leftcol" valign="top">
+<!-- LEFTSIDE ITEMS START -->
+		<table cellpadding="0" cellspacing="0" class="moduletable">
+			<tr>
+			<th valign="top">
+				Search			</th>
+		</tr>
+			<tr>
+			<td>
+				<form action="http://www.higopi.com/search-results" id="cse-search-box">
+  <div>
+    <input type="hidden" name="cx" value="partner-pub-5262009510690646:scw47-byz79" />
+    <input type="hidden" name="cof" value="FORID:11" />
+    <input type="hidden" name="ie" value="UTF-8" />
+    <input type="text" name="q" size="27" />
+
+    <input type="submit" name="sa" value="Search" />
+  </div>
+</form>
+<script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=cse-search-box&lang=en"></script>			</td>
+		</tr>
+		</table>
+
+
+		<table cellpadding="0" cellspacing="0" class="moduletable">
+			<tr>
+			<th valign="top">
+				Latest News			</th>
+		</tr>
+			<tr>
+			<td><div id="LatestNews"></div> 	</td>
+		</tr>
+		</table>
+		<table cellpadding="0" cellspacing="0" class="moduletable">
+
+			<tr>
+			<th valign="top">
+				Chat			</th>
+		</tr>
+			<tr>
+			<td>
+				<a style='font-weight:bold;color:#0000ff' href="http://www.google.com/talk/service/badge/Start?tk=z01q6amlqdrbcu8ofki9eu2hef9eecu4jp7999vf6do8tlca1l1bsde3mgtj5jd1q3et8t3i6h13ku1rmup7sgm78v7gcsjp93tp5q8g685eman73ggampckg51vet7p27utigtjq3i0erv30h0i6d3mkq76m891qh4n84mbc" target="_blank" title="Click here to chat with Gopi"><img style="border: medium none ; margin: 0pt; padding: 0pt 2px 0pt 0pt;" src="http://www.google.com/talk/service/resources/chaticon.gif" alt="" width="16" height="14"><img style="border: medium none ; margin: 0pt; padding: 0pt 2px 0pt 0pt;" src="http://www.google.com/talk/service/badge/Show?tk=z01q6amlqdrbcu8ofki9eu2hef9eecu4jp7999vf6do8tlca1l1bsde3mgtj5jd1q3et8t3i6h13ku1rmup7sgm78v7gcsjp93tp5q8g685eman73ggampckg51vet7p27utigtjq3i0erv30h0i6d3mkq76m891qh4n84mbc&w=9&h=9" alt="" width="9" height="9">Google Talk</a>
+<br>
+
+<a style='font-weight:bold;color:#ff0000' href="http://edit.yahoo.com/config/send_webmesg?.target=tgkindia&.src=pg" target="new">Yahoo ?<img alt="Leave Gopi a Message" src="http://opi.yahoo.com/online?u=tgkindia&m=g&t=2" style="border: 0px solid ;"></a><a class="links" href="http://edit.yahoo.com/config/send_webmesg?.target=tgkindia&.src=pg" target="new"></a>
+<br>
+<!-- embed src="http://o.aolcdn.com/aim/web-aim/wimzi.swf?appKey=gt1143uCOwdNFEX5&theme=snowdust" type="application/x-shockwave-flash" width="190" height="275" ></embed -->			</td>
+		</tr>
+		</table>
+		<table cellpadding="0" cellspacing="0" class="moduletable">
+			<tr>
+			<th valign="top">
+				Date & Time			</th>
+
+		</tr>
+			<tr>
+			<td>
+				<div align=center style='text-align:center;' id="clock_div"> Date and Time - JavaScript required.</div>
+<script src="/script/swfobject.js" language="javascript"></script>
+<script type="text/javascript">
+  var clock = new SWFObject("/swf/flash_clock_html.swf", "clock", "150", "160", "8.0.0.0", "#f5f5ff", true)
+    clock.addParam("wmode", "window");
+    clock.addParam("align", "middle");
+    clock.addParam("scale", "scale");
+    clock.addVariable("gmt", "330");
+    clock.addVariable("bodycolor", "0x5088a9");
+    clock.addVariable("showlabelTextField", "true");
+    clock.addVariable("labelarray", "India");
+    clock.addVariable("labelTextField", "0:45:160:25");
+    clock.addVariable("labelTextFieldStyle","<p align='center'><font face='Arial' color='#ffa100' size='16'><b>[]</b></font></p>")
+    clock.addVariable("showdataTextField", "true");
+    clock.addVariable("dataTextField", "0:160:150:25");
+    clock.addVariable("dataTextFieldStyle","<p align='center'><font face='Arial' color='#5088a9' size='16'><b>[]</b></font></p>")
+//    clock.addVariable("showtimeTextField", "true");
+//    clock.addVariable("timeTextField", "0:195:150:25");
+//    clock.addVariable("timeTextFieldStyle","<p align='center'><font face='Arial' color='#5088a9' size='16'><b>[]</b></font></p>")
+  clock.addVariable("imagearray", "/images/flags/in.gif");
+
+    clock.write("clock_div");
+</script>
+			</td>
+		</tr>
+		</table>
+<!-- LEFTSIDE ITEMS END -->
+		</td>
+	<td class="maincol" valign="top">
+		<div style="padding:0px 2px 0px 2px;">
+			<div class="componentheading">
+	Welcome to Hi Gopi!</div>
+
+
+
+<!-- JOOMLA SITE GROUND TEMPLATE END 2 -->
+
+<div id="punwrap">
+<div id="punviewtopic" class="pun">
+
+<div id="brdheader" class="block">
+	<div class="box">
+		<div id="brdtitle" class="inbox">
+			<h1><span>HiGopi Forum</span></h1>
+			<p><span>Welcome to the Forum section of HiGopi.com</span></p>
+		</div>
+		<div id="brdmenu" class="inbox">
+			<ul>
+				<li id="navindex"><a href="index.php">Index</a></li>
+				<li id="navuserlist"><a href="userlist.php">User list</a></li>
+				<li id="navrules"><a href="misc.php?action=rules">Rules</a></li>
+				<li id="navsearch"><a href="search.php">Search</a></li>
+				<li id="navregister"><a href="register.php">Register</a></li>
+				<li id="navlogin"><a href="login.php">Login</a></li>
+			</ul>
+		</div>
+		<div id="brdwelcome" class="inbox">
+			<p>You are not logged in.</p>
+		</div>
+	</div>
+</div>
+
+<div id="announce" class="block">
+	<h2><span>Announcement</span></h2>
+	<div class="box">
+		<div class="inbox">
+			<div>Please bear the following rules to make this forum an information rich good online technical resource.<br> 
+<br>
+Technical discussions/informative posts only<br>
+No Marketing/Donation/Promotion posts<br>
+No personal attacks/verbal abuse<br>
+
+<br><b>NOTE: New users registrations are closed. Please send me an email if you wish to register in this forum.</b><br></div>
+		</div>
+	</div>
+</div>
+
+<div class="linkst">
+	<div class="inbox">
+		<p class="pagelink conl">Pages: <strong>1</strong></p>
+		<p class="postlink conr">&nbsp;</p>
+		<ul><li><a href="index.php">Index</a></li><li>&nbsp;&raquo;&nbsp;<a href="viewforum.php?id=2">Technical Doubts</a></li><li>&nbsp;&raquo;&nbsp;Multi Langauge Typing select opiton</li></ul>
+		<div class="clearer"></div>
+	</div>
+</div>
+
+<div id="p35" class="blockpost rowodd firstpost">
+	<h2><span><span class="conr">#1&nbsp;</span><a href="viewtopic.php?pid=35#p35">16-Nov-2007,Fri 06:52:40</a></span></h2>
+	<div class="box">
+		<div class="inbox">
+			<div class="postleft">
+				<dl>
+					<dt><strong><a href="profile.php?id=4">gvvijaykumar</a></strong></dt>
+					<dd class="usertitle"><strong>Active Member</strong></dd>
+					<dd class="postavatar"></dd>
+				</dl>
+			</div>
+			<div class="postright">
+				<h3>Multi Langauge Typing select opiton</h3>
+				<div class="postmsg">
+					<p>Hi,<br /><br />&nbsp; In my application, I would like to enable one option for admin to select the language for replying according to the user/client&nbsp; typed language. How to enable this option and change language typing.<br /><br /> My idea is to change this tag in JSP .<br /><br />&lt;SCRIPT language=JavaScript src=&quot;script/telugu.js&quot;&gt;&lt;/SCRIPT&gt;<br /><br />Here if we can change telugu.js to hindi.js or tamil.js Etc., on admin language selection we can achive this.<br />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;(or) <br />Complete replace of above tag with hindi or tamil tag.<br /><br />can we do this change using java script??? <br /><br />provide me the sample code.<br /><br />I hope u understand my problem.<br /> <br />can u explain me how do this for same session and single, same page reload&nbsp; with out previous session change.</p>
+				</div>
+				<div class="postsignature"><hr />Thanks&amp;Regards,<br />Vijay Kumar,<br />Software Engineer.</div>
+			</div>
+			<div class="clearer"></div>
+			<div class="postfootleft"><p>Offline</p></div>
+			<div class="postfootright"><div>&nbsp;</div></div>
+		</div>
+	</div>
+</div>
+
+<div id="p37" class="blockpost roweven">
+	<h2><span><span class="conr">#2&nbsp;</span><a href="viewtopic.php?pid=37#p37">17-Nov-2007,Sat 05:44:53</a></span></h2>
+	<div class="box">
+		<div class="inbox">
+			<div class="postleft">
+				<dl>
+					<dt><strong><a href="profile.php?id=3">higopi</a></strong></dt>
+					<dd class="usertitle"><strong>Expert Member</strong></dd>
+					<dd class="postavatar"><img src="img/avatars/3.jpg" width="60" height="60" alt="" /></dd>
+				</dl>
+			</div>
+			<div class="postright">
+				<h3> Re: Multi Langauge Typing select opiton</h3>
+				<div class="postmsg">
+					<p>Hi Vijay,<br /><br />Instead of handling it in JSP, you can achieve this in JavaScript itself.<br /><br />1) Include all the language and common js files of the converter in the &lt;HEAD&gt; section<br /><br /></p><div class="codebox"><div class="incqbox"><h4>Code:</h4><div class="scrollbox" style="height: 35em"><pre>&lt;SCRIPT language=JavaScript src=&quot;script/common.js&quot;&gt;
+&lt;/SCRIPT&gt;
+&lt;SCRIPT language=JavaScript 
+src=&quot;script/malayalam.js&quot;&gt;&lt;/SCRIPT&gt;
+&lt;SCRIPT language=JavaScript src=&quot;script/telugu.js&quot;&gt;
+&lt;/SCRIPT&gt;
+&lt;SCRIPT language=JavaScript src=&quot;script/kannada.js&quot;&gt;
+&lt;/SCRIPT&gt;
+&lt;SCRIPT language=JavaScript src=&quot;script/oriya.js&quot;&gt;
+&lt;/SCRIPT&gt;
+&lt;SCRIPT language=JavaScript 
+src=&quot;script/gujarathi.js&quot;&gt;&lt;/SCRIPT&gt;
+&lt;SCRIPT language=JavaScript src=&quot;script/punjabi.js&quot;&gt;
+&lt;/SCRIPT&gt;
+&lt;SCRIPT language=JavaScript src=&quot;script/bengali.js&quot;&gt;
+&lt;/SCRIPT&gt;
+&lt;SCRIPT language=JavaScript src=&quot;script/hindi.js&quot;&gt;
+&lt;/SCRIPT&gt;
+&lt;SCRIPT language=JavaScript src=&quot;script/tamil.js&quot;&gt;
+&lt;/SCRIPT&gt;
+&lt;SCRIPT language=JavaScript src=&quot;script/english.js&quot;&gt;
+&lt;/SCRIPT&gt;</pre></div></div></div><p>2) Add the following script below the above code in the &lt;HEAD&gt; section. The below function switchLang will set the value of the language which comes in to immediate effect without re-submitting the page.<br /><br /></p><div class="codebox"><div class="incqbox"><h4>Code:</h4><div class="scrollbox" style="height: 18em"><pre>&lt;SCRIPT language=JavaScript&gt;
+&lt;!--
+function switchLang(val)
+{
+    lang = val;
+    kbmode = &quot;roman&quot;;
+    isChanged = false;
+}
+//--&gt;
+&lt;/SCRIPT&gt;</pre></div></div></div><p>3) Add the list box for language selection where ever you want in your &lt;BODY&gt; section of your JSP page (of course you make this section to appear only for admin users in JSP).<br /><br /></p><div class="codebox"><div class="incqbox"><h4>Code:</h4><div class="scrollbox" style="height: 22.5em"><pre> &lt;select onchange='switchLang(this.value)' 
+name=lansel&gt;
+   &lt;option value=&quot;bengali&quot;&gt;Bengali
+   &lt;option value=&quot;english&quot;&gt;English
+   &lt;option value=&quot;gujarathi&quot;&gt;Gujarathi
+   &lt;option value=&quot;hindi&quot;&gt;Hindi
+   &lt;option value=&quot;kannada&quot;&gt;Kannada
+   &lt;option value=&quot;malayalam&quot;&gt;Malayalam
+   &lt;option value=&quot;oriya&quot;&gt;Oriya
+   &lt;option value=&quot;punjabi&quot;&gt;Punjabi
+   &lt;option value=&quot;tamil&quot; selected&gt;Tamil
+   &lt;option value=&quot;telugu&quot;&gt;Telugu
+&lt;/select&gt;</pre></div></div></div>
+					<p class="postedit"><em>Last edited by higopi (13-Nov-2009,Fri 15:16:08)</em></p>
+				</div>
+				<div class="postsignature"><hr />Thanks,<br /><br />Gopi<br />Pick any two of &quot;Quality, Quick, Cheap&quot; service from me.</div>
+			</div>
+			<div class="clearer"></div>
+			<div class="postfootleft"><p>Offline</p></div>
+			<div class="postfootright"><div>&nbsp;</div></div>
+		</div>
+	</div>
+</div>
+
+<div id="p40" class="blockpost rowodd">
+	<h2><span><span class="conr">#3&nbsp;</span><a href="viewtopic.php?pid=40#p40">17-Nov-2007,Sat 08:41:29</a></span></h2>
+	<div class="box">
+		<div class="inbox">
+			<div class="postleft">
+				<dl>
+					<dt><strong><a href="profile.php?id=4">gvvijaykumar</a></strong></dt>
+					<dd class="usertitle"><strong>Active Member</strong></dd>
+					<dd class="postavatar"></dd>
+				</dl>
+			</div>
+			<div class="postright">
+				<h3> Re: Multi Langauge Typing select opiton</h3>
+				<div class="postmsg">
+					<p>Hi Gopi,<br /><br />&nbsp; Thanks for your code.<br />I hope this will be useful for other people also who are trying on same.</p>
+				</div>
+				<div class="postsignature"><hr />Thanks&amp;Regards,<br />Vijay Kumar,<br />Software Engineer.</div>
+			</div>
+			<div class="clearer"></div>
+			<div class="postfootleft"><p>Offline</p></div>
+			<div class="postfootright"><div>&nbsp;</div></div>
+		</div>
+	</div>
+</div>
+
+<div id="p179" class="blockpost roweven">
+	<h2><span><span class="conr">#4&nbsp;</span><a href="viewtopic.php?pid=179#p179">13-Nov-2009,Fri 07:20:05</a></span></h2>
+	<div class="box">
+		<div class="inbox">
+			<div class="postleft">
+				<dl>
+					<dt><strong><a href="profile.php?id=129">bhoopal</a></strong></dt>
+					<dd class="usertitle"><strong>New member</strong></dd>
+					<dd class="postavatar"></dd>
+				</dl>
+			</div>
+			<div class="postright">
+				<h3> Re: Multi Langauge Typing select opiton</h3>
+				<div class="postmsg">
+					<p>hi gopi <br />first i will&nbsp; thank you for the great works you have done<br /><br />and its working fine in firefox but im not getting anything in ie6<br /><br />could you&nbsp; please let me no what is the problem</p>
+				</div>
+			</div>
+			<div class="clearer"></div>
+			<div class="postfootleft"><p>Offline</p></div>
+			<div class="postfootright"><div>&nbsp;</div></div>
+		</div>
+	</div>
+</div>
+
+<div id="p180" class="blockpost rowodd">
+	<h2><span><span class="conr">#5&nbsp;</span><a href="viewtopic.php?pid=180#p180">13-Nov-2009,Fri 09:36:03</a></span></h2>
+	<div class="box">
+		<div class="inbox">
+			<div class="postleft">
+				<dl>
+					<dt><strong><a href="profile.php?id=3">higopi</a></strong></dt>
+					<dd class="usertitle"><strong>Expert Member</strong></dd>
+					<dd class="postavatar"><img src="img/avatars/3.jpg" width="60" height="60" alt="" /></dd>
+				</dl>
+			</div>
+			<div class="postright">
+				<h3> Re: Multi Langauge Typing select opiton</h3>
+				<div class="postmsg">
+					<p>Hi,<br /><br />I am not sure why its not working for you. It works perfectly for me at <a href="http://www.higopi.com/ucedit/Multi.html">http://www.higopi.com/ucedit/Multi.html</a><br /><br />Please post me the URL or the related files to understand the issue properly. The issue may be with some other javascript code you are using along with the above code. As JavaScript is a interpreted language, it will stop at the point where error occurs and it wont proceed further until the error is corrected.</p>
+				</div>
+				<div class="postsignature"><hr />Thanks,<br /><br />Gopi<br />Pick any two of &quot;Quality, Quick, Cheap&quot; service from me.</div>
+			</div>
+			<div class="clearer"></div>
+			<div class="postfootleft"><p>Offline</p></div>
+			<div class="postfootright"><div>&nbsp;</div></div>
+		</div>
+	</div>
+</div>
+
+<div id="p181" class="blockpost roweven">
+	<h2><span><span class="conr">#6&nbsp;</span><a href="viewtopic.php?pid=181#p181">13-Nov-2009,Fri 12:57:24</a></span></h2>
+	<div class="box">
+		<div class="inbox">
+			<div class="postleft">
+				<dl>
+					<dt><strong><a href="profile.php?id=129">bhoopal</a></strong></dt>
+					<dd class="usertitle"><strong>New member</strong></dd>
+					<dd class="postavatar"></dd>
+				</dl>
+			</div>
+			<div class="postright">
+				<h3> Re: Multi Langauge Typing select opiton</h3>
+				<div class="postmsg">
+					<p>hi, <br />thanks for the reply, and it was in development mode so no url i can post<br /><br />the code is like<br /><br />&lt;select id=&quot;Language&quot; &gt;<br />&lt;option value=&quot;english&quot;&gt;english &lt;/option&gt;<br />&lt;option value=&quot;hindi&quot;&gt;hindi &lt;/option&gt;<br />&lt;option value=&quot;telugu&quot;&gt;telugu &lt;/option&gt;<br /><br />&lt;/select&gt;<br /> $(&quot;#Language&quot;).change(function() {<br /><br />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;switchLang($(&quot;#Language&quot;).val());<br /> });<br />actually in my select there is a option like english also so when select english<br /> then coming back to the one of languages im getting error<br />so how to disable converter for english(because no need )<br />and enable for the other languages<br /><br /><br />thanks in advance,</p>
+				</div>
+			</div>
+			<div class="clearer"></div>
+			<div class="postfootleft"><p>Offline</p></div>
+			<div class="postfootright"><div>&nbsp;</div></div>
+		</div>
+	</div>
+</div>
+
+<div id="p182" class="blockpost rowodd">
+	<h2><span><span class="conr">#7&nbsp;</span><a href="viewtopic.php?pid=182#p182">13-Nov-2009,Fri 15:18:59</a></span></h2>
+	<div class="box">
+		<div class="inbox">
+			<div class="postleft">
+				<dl>
+					<dt><strong><a href="profile.php?id=3">higopi</a></strong></dt>
+					<dd class="usertitle"><strong>Expert Member</strong></dd>
+					<dd class="postavatar"><img src="img/avatars/3.jpg" width="60" height="60" alt="" /></dd>
+				</dl>
+			</div>
+			<div class="postright">
+				<h3> Re: Multi Langauge Typing select opiton</h3>
+				<div class="postmsg">
+					<p>Hi,<br /><br />I think now I got the fix... There is one more js file you need to include.<br /><br /></p><div class="codebox"><div class="incqbox"><h4>Code:</h4><div class="scrollbox" style="height: 6em"><pre>&lt;SCRIPT language=JavaScript src=&quot;script/english.js&quot;&gt;
+&lt;/SCRIPT&gt;</pre></div></div></div><p>Above js file is a must even if you do not have English option in your select box. Because, this file contains the reverse map for converting between languages.<br /><br />Try it out and let me know if this issue is fixed. If the issue is not fixed, please paste me the JavaScript error you get due to this issue.</p>
+				</div>
+				<div class="postsignature"><hr />Thanks,<br /><br />Gopi<br />Pick any two of &quot;Quality, Quick, Cheap&quot; service from me.</div>
+			</div>
+			<div class="clearer"></div>
+			<div class="postfootleft"><p>Offline</p></div>
+			<div class="postfootright"><div>&nbsp;</div></div>
+		</div>
+	</div>
+</div>
+
+<div id="p183" class="blockpost roweven">
+	<h2><span><span class="conr">#8&nbsp;</span><a href="viewtopic.php?pid=183#p183">14-Nov-2009,Sat 04:46:01</a></span></h2>
+	<div class="box">
+		<div class="inbox">
+			<div class="postleft">
+				<dl>
+					<dt><strong><a href="profile.php?id=129">bhoopal</a></strong></dt>
+					<dd class="usertitle"><strong>New member</strong></dd>
+					<dd class="postavatar"></dd>
+				</dl>
+			</div>
+			<div class="postright">
+				<h3> Re: Multi Langauge Typing select opiton</h3>
+				<div class="postmsg">
+					<p>hi,<br /><br />thanks i got it <br /><br />but i need one more help in my site im using tinymce editor for the same text area<br /><br />so at the same time both should work that is not there now if you give u any suggestion or solution it would be helpfull for so many people<br /><br /><br />i think u got what the problem is?<br /><br />tinymce editor with your convertors<br /><br />thanks in advance...</p>
+				</div>
+			</div>
+			<div class="clearer"></div>
+			<div class="postfootleft"><p>Offline</p></div>
+			<div class="postfootright"><div>&nbsp;</div></div>
+		</div>
+	</div>
+</div>
+
+<div id="p184" class="blockpost rowodd">
+	<h2><span><span class="conr">#9&nbsp;</span><a href="viewtopic.php?pid=184#p184">14-Nov-2009,Sat 17:12:43</a></span></h2>
+	<div class="box">
+		<div class="inbox">
+			<div class="postleft">
+				<dl>
+					<dt><strong><a href="profile.php?id=3">higopi</a></strong></dt>
+					<dd class="usertitle"><strong>Expert Member</strong></dd>
+					<dd class="postavatar"><img src="img/avatars/3.jpg" width="60" height="60" alt="" /></dd>
+				</dl>
+			</div>
+			<div class="postright">
+				<h3> Re: Multi Langauge Typing select opiton</h3>
+				<div class="postmsg">
+					<p>Hi,<br /><br />My converters will not work with RichText boxes like tinyMCE editor. I tried to come up with a different version of my converters to be compatible with RichText boxes but I could not fix it till now.<br /><br />I heard New Horizon Media (<a href="http://software.nhm.in">http://software.nhm.in</a>) is coming up with a converter&nbsp; compatible with RichText boxes. Please try to reach them using the contact provided in their website. They may have more information about it.</p>
+					<p class="postedit"><em>Last edited by higopi (14-Nov-2009,Sat 17:16:45)</em></p>
+				</div>
+				<div class="postsignature"><hr />Thanks,<br /><br />Gopi<br />Pick any two of &quot;Quality, Quick, Cheap&quot; service from me.</div>
+			</div>
+			<div class="clearer"></div>
+			<div class="postfootleft"><p>Offline</p></div>
+			<div class="postfootright"><div>&nbsp;</div></div>
+		</div>
+	</div>
+</div>
+
+<div class="postlinksb">
+	<div class="inbox">
+		<p class="postlink conr">&nbsp;</p>
+		<p class="pagelink conl">Pages: <strong>1</strong></p>
+		<ul><li><a href="index.php">Index</a></li><li>&nbsp;&raquo;&nbsp;<a href="viewforum.php?id=2">Technical Doubts</a></li><li>&nbsp;&raquo;&nbsp;Multi Langauge Typing select opiton</li></ul>
+		<div class="clearer"></div>
+	</div>
+</div>
+
+<div id="brdfooter" class="block">
+	<h2><span>Board footer</span></h2>
+	<div class="box">
+		<div class="inbox">
+
+			<div class="conl">
+				<form id="qjump" method="get" action="viewforum.php">
+					<div><label>Jump to
+					<br /><select name="id" onchange="window.location=('viewforum.php?id='+this.options[this.selectedIndex].value)">
+						<optgroup label="Technical">
+							<option value="5">IT Jobs in India</option>
+							<option value="2" selected="selected">Technical Doubts</option>
+							<option value="4">Java Technology</option>
+							<option value="3">Indian Language Software</option>
+						</optgroup>
+						<optgroup label="Others">
+							<option value="7">General</option>
+					</optgroup>
+					</select>
+					<input type="submit" value=" Go " accesskey="g" />
+					</label></div>
+				</form>
+			</div>
+			<p class="conr">Powered by <a href="http://punbb.informer.com/">PunBB</a><br />&copy; Copyright 2002&#8211;2008 PunBB</p>
+			<div class="clearer"></div>
+		</div>
+	</div>
+</div>
+
+</div>
+</div>
+<!-- JOOMLA SITE GROUND TEMPLATE START 3 -->
+</div>
+</td>
+	<td class="rightcol" valign="top">
+				<table class="moduletable" cellpadding="0" cellspacing="0">
+			<tbody><tr>
+			<th valign="top">
+				Google Ads			</th>
+		</tr>
+			<tr>
+			<td>
+				<div style="text-align: center;">
+<script type="text/javascript"><!--
+google_ad_client = "pub-5262009510690646";
+/* 160x600, created 24/11/08 */
+google_ad_slot = "1340162236";
+google_ad_width = 160;
+google_ad_height = 600;
+//-->
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script>
+</div>			</td>
+		</tr>
+		</tbody></table>
+
+	</td>
+</tr></table>
+<div class="footer_bg">
+<div class="footer">
+<table>
+<tbody><tr><td style="width: 625px; color: rgb(255, 255, 255); text-align: left;">
+ 	Powered by <a href="http://joomla.org/" class="sgfooter" target="_blank"><b>Joomla!</b></a>; Template modified from <a href="http://www.siteground.com/joomla-hosting/joomla-templates.htm" target="_blank" class="sgfooter">SiteGround.com's <b>Blue Fairy</b>.</a> </td>
+
+<td style="width: 625px; color: rgb(255, 255, 255); text-align: right;" align="right">Please send your suggestions to <a href="mailto:webmaster@higopi.com" title="mail" style="color: rgb(255, 255, 255);"><img src="/images/mailgif/webmaster.gif" align="top" border="0"></a>
+ to improve this site.</td></tr></tbody></table>
+ </div>
+</div>
+
+<div style="text-align: center;">  	<table class="moduletable" cellpadding="0" cellspacing="0">
+			<tbody><tr>
+			<td>
+<script type="text/javascript">
+google_ad_client = "pub-5262009510690646";
+google_ad_type = "text";
+google_ad_channel = "";
+google_ad_slot = "2182111640";
+google_ad_width = 728;
+google_ad_height = 90;
+google_ad_format = "728x90_as";
+
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script>
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-1027973-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+</td>
+		</tr>
+		</tbody></table>
+	 </div>
+
+</div>
+</center>
+
+<script language="JavaScript">
+function toggleScreen()
+{
+	objectId = "logo";
+    // cross-browser function to get an object's style object given its
+    if(document.getElementById && document.getElementById(objectId)) {
+	// W3C DOM
+	styleObj = document.getElementById(objectId).style;
+    } else if (document.all && document.all(objectId)) {
+	// MSIE 4 DOM
+	styleObj = document.all(objectId).style;
+    } else if (document.layers && document.layers[objectId]) {
+	// NN 4 DOM.. note: this won't find nested layers
+	styleObj = document.layers[objectId];
+    } else {
+	return false;
+    }
+    if(styleObj.paddingTop == "" || styleObj.paddingTop == "156px")
+    {
+	    styleObj.paddingTop = "56px";
+		document.getElementById("updownarrow").src = "/templates/siteground39/images/downarrow.gif";
+		setCookie("ScreenPref","Half",365);
+    }
+    else
+    {
+	    styleObj.paddingTop = "156px";
+	    document.getElementById("updownarrow").src = "/templates/siteground39/images/uparrow.gif";
+	    setCookie("ScreenPref","Full",365);
+    }
+}
+
+function setCookie(c_name,value,expiredays)
+{
+var exdate=new Date();
+exdate.setDate(exdate.getDate()+expiredays);
+document.cookie=c_name+ "=" +escape(value)+
+((expiredays==null) ? "" : ";expires="+exdate.toGMTString()) + ";path=/";
+}
+
+function getCookie(c_name)
+{
+if (document.cookie.length>0)
+  {
+  c_start=document.cookie.indexOf(c_name + "=");
+  if (c_start!=-1)
+    {
+    c_start=c_start + c_name.length+1;
+    c_end=document.cookie.indexOf(";",c_start);
+    if (c_end==-1) c_end=document.cookie.length;
+    return unescape(document.cookie.substring(c_start,c_end));
+    }
+  }
+return "";
+}
+
+if(getCookie("ScreenPref") == "Half")
+	toggleScreen();
+</script>
+
+
+<!-- JOOMLA SITE GROUND TEMPLATE END 3 -->
+
+</body>
+</html>

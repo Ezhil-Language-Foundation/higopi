@@ -1,0 +1,22 @@
+Manifest-Version: 1.0
+
+Name: install.rdf
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: yFMfJubt3S0rDgxEhOsTaQ==
+SHA1-Digest: T1fXkWE5MlTzye74BgfRrp1jFjM=
+
+Name: chrome.manifest
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: Fv5+trAhbEFmsbtvWuAONA==
+SHA1-Digest: P/2lbFFZSIlPNBG6n+jrey8J9fw=
+
+Name: chrome/adhiyan.jar
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: AVb939jO5Mkh6W/LcAw4/Q==
+SHA1-Digest: 3tgyC72RUlvFlaydF0058fIo460=
+
+Name: defaults/preferences/adhiyanp.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: LectLLgQ5MJ/gTEX0eOzCQ==
+SHA1-Digest: 9/ZqUtYAyKfNF9REnBrb9P5J8EA=
+

@@ -1,0 +1,765 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" dir="ltr">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>HiGopi Forum / Indian Language Software</title>
+<link rel="stylesheet" type="text/css" href="style/Discuz5.css" />
+<!-- JOOMLA SITE GROUND TEMPLATE START 1 -->
+<link rel="stylesheet" type="text/css" href="/templates/siteground39/css/template_css_alt.css" />
+<!-- JOOMLA SITE GROUND TEMPLATE END 1 -->
+</head>
+<body class="body">
+
+<!-- JOOMLA SITE GROUND TEMPLATE START 2 -->
+<center>
+<div class="topmaincol">
+		<div class="divpath">
+			<div style="float: left; height: 33px; padding-top: 8px;">
+							</div>
+			<div style="padding: 10px 10px 0pt; float: right; height: 33px;">
+				<a href="/"><img src="/templates/siteground39/images/home.gif" alt="Home" title="Home" border="0"></a>&nbsp;&nbsp;&nbsp;
+				<a href="/aboutme-en.html"><img src="/templates/siteground39/images/mail.gif" alt="Contacts" title="Contacts" border="0"></a>
+			</div>
+		</div>
+</div>
+<div id="sitename">HiGopi.Com - Gopi's Web Home</div>
+<div id="logo">
+		<div id="menu">
+	<div class="menuc">
+		<div id="topnavi">
+			<ul>
+			<li><a id="tab1" href="/" class="noc"><span>HOME</span></a></li><li><a id="tab2" href="/gallery/" class="noc"><span>GALLERY</span></a></li><li><a id="tab3" href="/tools/" class="noc"><span>TOOLS</span></a></li><li><a id="tab4" href="/downloads/" class="noc"><span>DOWNLOADS</span></a></li><li><a id="tab5" href="/games/" class="noc"><span>GAMES</span></a></li><li><a id="tab6" href="/news/" class="noc"><span>NEWS</span></a></li><li><a id="tab8" href="/forum/" class="current"><span>FORUM</span></a></li><li><a id="tab8" href="/blogs-more/" class="noc"><span>BLOGS &amp; MORE</span></a></li><li><a id="tab9" href="/aboutme-en.html" class="noc"><span>ABOUT</span></a></li>			</ul>
+			<div valign="bottom" style="padding-top: 6px; float: right;" align="right"><a href="javascript:toggleScreen();"><img id="updownarrow" src="/templates/siteground39/images/uparrow.gif" alt="Up/Down" border="0"></a></div>
+		</div>
+	</div>
+</div>
+
+<div id="container">
+<table cellpadding="0" cellspacing="0">
+	<tr>
+	<td class="leftcol" valign="top">
+<!-- LEFTSIDE ITEMS START -->
+		<table cellpadding="0" cellspacing="0" class="moduletable">
+			<tr>
+			<th valign="top">
+				Search			</th>
+		</tr>
+			<tr>
+			<td>
+				<form action="http://www.higopi.com/search-results" id="cse-search-box">
+  <div>
+    <input type="hidden" name="cx" value="partner-pub-5262009510690646:scw47-byz79" />
+    <input type="hidden" name="cof" value="FORID:11" />
+    <input type="hidden" name="ie" value="UTF-8" />
+    <input type="text" name="q" size="27" />
+
+    <input type="submit" name="sa" value="Search" />
+  </div>
+</form>
+<script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=cse-search-box&lang=en"></script>			</td>
+		</tr>
+		</table>
+
+
+		<table cellpadding="0" cellspacing="0" class="moduletable">
+			<tr>
+			<th valign="top">
+				Latest News			</th>
+		</tr>
+			<tr>
+			<td><div id="LatestNews"></div> 	</td>
+		</tr>
+		</table>
+		<table cellpadding="0" cellspacing="0" class="moduletable">
+
+			<tr>
+			<th valign="top">
+				Chat			</th>
+		</tr>
+			<tr>
+			<td>
+				<a style='font-weight:bold;color:#0000ff' href="http://www.google.com/talk/service/badge/Start?tk=z01q6amlqdrbcu8ofki9eu2hef9eecu4jp7999vf6do8tlca1l1bsde3mgtj5jd1q3et8t3i6h13ku1rmup7sgm78v7gcsjp93tp5q8g685eman73ggampckg51vet7p27utigtjq3i0erv30h0i6d3mkq76m891qh4n84mbc" target="_blank" title="Click here to chat with Gopi"><img style="border: medium none ; margin: 0pt; padding: 0pt 2px 0pt 0pt;" src="http://www.google.com/talk/service/resources/chaticon.gif" alt="" width="16" height="14"><img style="border: medium none ; margin: 0pt; padding: 0pt 2px 0pt 0pt;" src="http://www.google.com/talk/service/badge/Show?tk=z01q6amlqdrbcu8ofki9eu2hef9eecu4jp7999vf6do8tlca1l1bsde3mgtj5jd1q3et8t3i6h13ku1rmup7sgm78v7gcsjp93tp5q8g685eman73ggampckg51vet7p27utigtjq3i0erv30h0i6d3mkq76m891qh4n84mbc&w=9&h=9" alt="" width="9" height="9">Google Talk</a>
+<br>
+
+<a style='font-weight:bold;color:#ff0000' href="http://edit.yahoo.com/config/send_webmesg?.target=tgkindia&.src=pg" target="new">Yahoo ?<img alt="Leave Gopi a Message" src="http://opi.yahoo.com/online?u=tgkindia&m=g&t=2" style="border: 0px solid ;"></a><a class="links" href="http://edit.yahoo.com/config/send_webmesg?.target=tgkindia&.src=pg" target="new"></a>
+<br>
+<!-- embed src="http://o.aolcdn.com/aim/web-aim/wimzi.swf?appKey=gt1143uCOwdNFEX5&theme=snowdust" type="application/x-shockwave-flash" width="190" height="275" ></embed -->			</td>
+		</tr>
+		</table>
+		<table cellpadding="0" cellspacing="0" class="moduletable">
+			<tr>
+			<th valign="top">
+				Date & Time			</th>
+
+		</tr>
+			<tr>
+			<td>
+				<div align=center style='text-align:center;' id="clock_div"> Date and Time - JavaScript required.</div>
+<script src="/script/swfobject.js" language="javascript"></script>
+<script type="text/javascript">
+  var clock = new SWFObject("/swf/flash_clock_html.swf", "clock", "150", "160", "8.0.0.0", "#f5f5ff", true)
+    clock.addParam("wmode", "window");
+    clock.addParam("align", "middle");
+    clock.addParam("scale", "scale");
+    clock.addVariable("gmt", "330");
+    clock.addVariable("bodycolor", "0x5088a9");
+    clock.addVariable("showlabelTextField", "true");
+    clock.addVariable("labelarray", "India");
+    clock.addVariable("labelTextField", "0:45:160:25");
+    clock.addVariable("labelTextFieldStyle","<p align='center'><font face='Arial' color='#ffa100' size='16'><b>[]</b></font></p>")
+    clock.addVariable("showdataTextField", "true");
+    clock.addVariable("dataTextField", "0:160:150:25");
+    clock.addVariable("dataTextFieldStyle","<p align='center'><font face='Arial' color='#5088a9' size='16'><b>[]</b></font></p>")
+//    clock.addVariable("showtimeTextField", "true");
+//    clock.addVariable("timeTextField", "0:195:150:25");
+//    clock.addVariable("timeTextFieldStyle","<p align='center'><font face='Arial' color='#5088a9' size='16'><b>[]</b></font></p>")
+  clock.addVariable("imagearray", "/images/flags/in.gif");
+
+    clock.write("clock_div");
+</script>
+			</td>
+		</tr>
+		</table>
+<!-- LEFTSIDE ITEMS END -->
+		</td>
+	<td class="maincol" valign="top">
+		<div style="padding:0px 2px 0px 2px;">
+			<div class="componentheading">
+	Welcome to Hi Gopi!</div>
+
+
+
+<!-- JOOMLA SITE GROUND TEMPLATE END 2 -->
+
+<div id="punwrap">
+<div id="punviewforum" class="pun">
+
+<div id="brdheader" class="block">
+	<div class="box">
+		<div id="brdtitle" class="inbox">
+			<h1><span>HiGopi Forum</span></h1>
+			<p><span>Welcome to the Forum section of HiGopi.com</span></p>
+		</div>
+		<div id="brdmenu" class="inbox">
+			<ul>
+				<li id="navindex"><a href="index.php">Index</a></li>
+				<li id="navuserlist"><a href="userlist.php">User list</a></li>
+				<li id="navrules"><a href="misc.php?action=rules">Rules</a></li>
+				<li id="navsearch"><a href="search.php">Search</a></li>
+				<li id="navregister"><a href="register.php">Register</a></li>
+				<li id="navlogin"><a href="login.php">Login</a></li>
+			</ul>
+		</div>
+		<div id="brdwelcome" class="inbox">
+			<p>You are not logged in.</p>
+		</div>
+	</div>
+</div>
+
+<div id="announce" class="block">
+	<h2><span>Announcement</span></h2>
+	<div class="box">
+		<div class="inbox">
+			<div>Please bear the following rules to make this forum an information rich good online technical resource.<br> 
+<br>
+Technical discussions/informative posts only<br>
+No Marketing/Donation/Promotion posts<br>
+No personal attacks/verbal abuse<br>
+
+<br><b>NOTE: New users registrations are closed. Please send me an email if you wish to register in this forum.</b><br></div>
+		</div>
+	</div>
+</div>
+
+<div class="linkst">
+	<div class="inbox">
+		<p class="pagelink conl">Pages: <strong>1</strong>&nbsp;<a href="viewforum.php?id=3&amp;p=2">2</a></p>
+		<ul><li><a href="index.php">Index</a>&nbsp;</li><li>&raquo;&nbsp;Indian Language Software</li></ul>
+		<div class="clearer"></div>
+	</div>
+</div>
+
+<div id="vf" class="blocktable">
+	<h2><span>Indian Language Software</span></h2>
+	<div class="box">
+		<div class="inbox">
+			<table cellspacing="0">
+			<thead>
+				<tr>
+					<th class="tcl" scope="col">Topic</th>
+					<th class="tc2" scope="col">Replies</th>
+					<th class="tc3" scope="col">Views</th>
+					<th class="tcr" scope="col">Last post</th>
+				</tr>
+			</thead>
+			<tbody>
+				<tr class="iclosed isticky">
+					<td class="tcl">
+						<div class="intd">
+							<div class="icon"><div class="nosize">This topic is closed Sticky</div></div>
+							<div class="tclcon">
+								<span class="stickytext">Sticky: </span><a href="viewtopic.php?id=12">Welcome</a> <span class="byuser">by&nbsp;higopi</span>
+							</div>
+						</div>
+					</td>
+					<td class="tc2">0</td>
+					<td class="tc3">4721</td>
+					<td class="tcr"><a href="viewtopic.php?pid=21#p21">31-Oct-2007,Wed 05:57:49</a> <span class="byuser">by&nbsp;higopi</span></td>
+				</tr>
+				<tr>
+					<td class="tcl">
+						<div class="intd">
+							<div class="icon"><div class="nosize"><!-- --></div></div>
+							<div class="tclcon">
+								<a href="viewtopic.php?id=148">Gujarati/Hindi/Roman script converter project</a> <span class="byuser">by&nbsp;higopi</span>
+							</div>
+						</div>
+					</td>
+					<td class="tc2">0</td>
+					<td class="tc3">3264</td>
+					<td class="tcr"><a href="viewtopic.php?pid=364#p364">16-Jan-2013,Wed 12:21:10</a> <span class="byuser">by&nbsp;higopi</span></td>
+				</tr>
+				<tr>
+					<td class="tcl">
+						<div class="intd">
+							<div class="icon"><div class="nosize"><!-- --></div></div>
+							<div class="tclcon">
+								<a href="viewtopic.php?id=105">Copy,Paste</a> <span class="byuser">by&nbsp;Trust</span>
+							</div>
+						</div>
+					</td>
+					<td class="tc2">1</td>
+					<td class="tc3">4505</td>
+					<td class="tcr"><a href="viewtopic.php?pid=298#p298">20-Apr-2011,Wed 07:05:35</a> <span class="byuser">by&nbsp;higopi</span></td>
+				</tr>
+				<tr>
+					<td class="tcl">
+						<div class="intd">
+							<div class="icon"><div class="nosize"><!-- --></div></div>
+							<div class="tclcon">
+								<a href="viewtopic.php?id=22">hi</a> <span class="byuser">by&nbsp;zavidhussain</span>
+							</div>
+						</div>
+					</td>
+					<td class="tc2">3</td>
+					<td class="tc3">7708</td>
+					<td class="tcr"><a href="viewtopic.php?pid=279#p279">30-Mar-2011,Wed 20:21:57</a> <span class="byuser">by&nbsp;hafizua</span></td>
+				</tr>
+				<tr>
+					<td class="tcl">
+						<div class="intd">
+							<div class="icon"><div class="nosize"><!-- --></div></div>
+							<div class="tclcon">
+								<a href="viewtopic.php?id=95">converting tamil*.ttf fonts to unicode</a> <span class="byuser">by&nbsp;selva</span>
+							</div>
+						</div>
+					</td>
+					<td class="tc2">2</td>
+					<td class="tc3">7100</td>
+					<td class="tcr"><a href="viewtopic.php?pid=267#p267">10-Dec-2010,Fri 07:40:02</a> <span class="byuser">by&nbsp;Alfred</span></td>
+				</tr>
+				<tr>
+					<td class="tcl">
+						<div class="intd">
+							<div class="icon"><div class="nosize"><!-- --></div></div>
+							<div class="tclcon">
+								<a href="viewtopic.php?id=97">Customer Support</a> <span class="byuser">by&nbsp;jhondavis</span>
+							</div>
+						</div>
+					</td>
+					<td class="tc2">0</td>
+					<td class="tc3">2731</td>
+					<td class="tcr"><a href="viewtopic.php?pid=266#p266">09-Dec-2010,Thu 16:32:13</a> <span class="byuser">by&nbsp;jhondavis</span></td>
+				</tr>
+				<tr>
+					<td class="tcl">
+						<div class="intd">
+							<div class="icon"><div class="nosize"><!-- --></div></div>
+							<div class="tclcon">
+								<a href="viewtopic.php?id=94">Tamil language type support in blogger comment page</a> <span class="byuser">by&nbsp;shivrevanth</span>
+							</div>
+						</div>
+					</td>
+					<td class="tc2">1</td>
+					<td class="tc3">5040</td>
+					<td class="tcr"><a href="viewtopic.php?pid=260#p260">21-Nov-2010,Sun 18:52:54</a> <span class="byuser">by&nbsp;higopi</span></td>
+				</tr>
+				<tr>
+					<td class="tcl">
+						<div class="intd">
+							<div class="icon"><div class="nosize"><!-- --></div></div>
+							<div class="tclcon">
+								<a href="viewtopic.php?id=93">Phonetic  transliteration keyboard for GNU Linux Ibus Interface.</a> <span class="byuser">by&nbsp;drsskelkar</span>
+							</div>
+						</div>
+					</td>
+					<td class="tc2">0</td>
+					<td class="tc3">4277</td>
+					<td class="tcr"><a href="viewtopic.php?pid=257#p257">12-Nov-2010,Fri 14:27:24</a> <span class="byuser">by&nbsp;drsskelkar</span></td>
+				</tr>
+				<tr>
+					<td class="tcl">
+						<div class="intd">
+							<div class="icon"><div class="nosize"><!-- --></div></div>
+							<div class="tclcon">
+								<a href="viewtopic.php?id=35">Rich Text Editors/Converters</a> <span class="byuser">by&nbsp;pandugadu</span>
+							</div>
+						</div>
+					</td>
+					<td class="tc2">3</td>
+					<td class="tc3">11368</td>
+					<td class="tcr"><a href="viewtopic.php?pid=256#p256">15-Oct-2010,Fri 11:12:34</a> <span class="byuser">by&nbsp;higopi</span></td>
+				</tr>
+				<tr>
+					<td class="tcl">
+						<div class="intd">
+							<div class="icon"><div class="nosize"><!-- --></div></div>
+							<div class="tclcon">
+								<a href="viewtopic.php?id=20">Tamil words identification related query</a> <span class="byuser">by&nbsp;gtpraba</span>
+							</div>
+						</div>
+					</td>
+					<td class="tc2">5</td>
+					<td class="tc3">11283</td>
+					<td class="tcr"><a href="viewtopic.php?pid=251#p251">30-Sep-2010,Thu 15:26:31</a> <span class="byuser">by&nbsp;higopi</span></td>
+				</tr>
+				<tr>
+					<td class="tcl">
+						<div class="intd">
+							<div class="icon"><div class="nosize"><!-- --></div></div>
+							<div class="tclcon">
+								<a href="viewtopic.php?id=84">multi lingual sorce code</a> <span class="byuser">by&nbsp;siva.talasila</span>
+							</div>
+						</div>
+					</td>
+					<td class="tc2">2</td>
+					<td class="tc3">5384</td>
+					<td class="tcr"><a href="viewtopic.php?pid=232#p232">11-Jun-2010,Fri 22:03:52</a> <span class="byuser">by&nbsp;siva.talasila</span></td>
+				</tr>
+				<tr>
+					<td class="tcl">
+						<div class="intd">
+							<div class="icon"><div class="nosize"><!-- --></div></div>
+							<div class="tclcon">
+								<a href="viewtopic.php?id=39">Online Keymap Help and Show Keymap not working</a> <span class="byuser">by&nbsp;Sunil</span>
+							</div>
+						</div>
+					</td>
+					<td class="tc2">5</td>
+					<td class="tc3">10126</td>
+					<td class="tcr"><a href="viewtopic.php?pid=217#p217">18-Mar-2010,Thu 15:37:38</a> <span class="byuser">by&nbsp;higopi</span></td>
+				</tr>
+				<tr>
+					<td class="tcl">
+						<div class="intd">
+							<div class="icon"><div class="nosize"><!-- --></div></div>
+							<div class="tclcon">
+								<a href="viewtopic.php?id=72">creating scanf and printf like routines for handling natural languages</a> <span class="byuser">by&nbsp;smr.admin</span>
+							</div>
+						</div>
+					</td>
+					<td class="tc2">2</td>
+					<td class="tc3">6516</td>
+					<td class="tcr"><a href="viewtopic.php?pid=215#p215">06-Mar-2010,Sat 08:35:31</a> <span class="byuser">by&nbsp;smr.admin</span></td>
+				</tr>
+				<tr>
+					<td class="tcl">
+						<div class="intd">
+							<div class="icon"><div class="nosize"><!-- --></div></div>
+							<div class="tclcon">
+								<a href="viewtopic.php?id=73">Is There any Software ?</a> <span class="byuser">by&nbsp;calieigh</span>
+							</div>
+						</div>
+					</td>
+					<td class="tc2">1</td>
+					<td class="tc3">4429</td>
+					<td class="tcr"><a href="viewtopic.php?pid=210#p210">01-Feb-2010,Mon 20:22:49</a> <span class="byuser">by&nbsp;higopi</span></td>
+				</tr>
+				<tr>
+					<td class="tcl">
+						<div class="intd">
+							<div class="icon"><div class="nosize"><!-- --></div></div>
+							<div class="tclcon">
+								<a href="viewtopic.php?id=70">Display Marathi data in Command Console n Java Application both...</a> <span class="byuser">by&nbsp;Aniket_Anerao</span>
+							</div>
+						</div>
+					</td>
+					<td class="tc2">2</td>
+					<td class="tc3">7846</td>
+					<td class="tcr"><a href="viewtopic.php?pid=203#p203">17-Jan-2010,Sun 17:03:41</a> <span class="byuser">by&nbsp;higopi</span></td>
+				</tr>
+				<tr>
+					<td class="tcl">
+						<div class="intd">
+							<div class="icon"><div class="nosize"><!-- --></div></div>
+							<div class="tclcon">
+								<a href="viewtopic.php?id=67">Backup Software</a> <span class="byuser">by&nbsp;sjohn</span>
+							</div>
+						</div>
+					</td>
+					<td class="tc2">1</td>
+					<td class="tc3">4369</td>
+					<td class="tcr"><a href="viewtopic.php?pid=198#p198">09-Dec-2009,Wed 10:32:40</a> <span class="byuser">by&nbsp;balu</span></td>
+				</tr>
+				<tr>
+					<td class="tcl">
+						<div class="intd">
+							<div class="icon"><div class="nosize"><!-- --></div></div>
+							<div class="tclcon">
+								<a href="viewtopic.php?id=68">Next iphone</a> <span class="byuser">by&nbsp;sjohn</span>
+							</div>
+						</div>
+					</td>
+					<td class="tc2">0</td>
+					<td class="tc3">3480</td>
+					<td class="tcr"><a href="viewtopic.php?pid=197#p197">09-Dec-2009,Wed 10:13:04</a> <span class="byuser">by&nbsp;sjohn</span></td>
+				</tr>
+				<tr>
+					<td class="tcl">
+						<div class="intd">
+							<div class="icon"><div class="nosize"><!-- --></div></div>
+							<div class="tclcon">
+								<a href="viewtopic.php?id=66">IS THERE ANY SOFTWARE AVAILABLE FOR ENGLISH TO TELUGU CONVERTION</a> <span class="byuser">by&nbsp;seshu.ramakrishna</span>
+							</div>
+						</div>
+					</td>
+					<td class="tc2">0</td>
+					<td class="tc3">3717</td>
+					<td class="tcr"><a href="viewtopic.php?pid=193#p193">07-Dec-2009,Mon 10:54:28</a> <span class="byuser">by&nbsp;seshu.ramakrishna</span></td>
+				</tr>
+				<tr>
+					<td class="tcl">
+						<div class="intd">
+							<div class="icon"><div class="nosize"><!-- --></div></div>
+							<div class="tclcon">
+								<a href="viewtopic.php?id=64">Problems in typing Telugu in Unicode format</a> <span class="byuser">by&nbsp;ramat1</span>
+							</div>
+						</div>
+					</td>
+					<td class="tc2">1</td>
+					<td class="tc3">5297</td>
+					<td class="tcr"><a href="viewtopic.php?pid=191#p191">01-Dec-2009,Tue 03:33:33</a> <span class="byuser">by&nbsp;higopi</span></td>
+				</tr>
+				<tr>
+					<td class="tcl">
+						<div class="intd">
+							<div class="icon"><div class="nosize"><!-- --></div></div>
+							<div class="tclcon">
+								<a href="viewtopic.php?id=21">Any other tool like e-Kalappai for typing Tamil in all applications</a> <span class="byuser">by&nbsp;prabhu</span>
+							</div>
+						</div>
+					</td>
+					<td class="tc2">4</td>
+					<td class="tc3">14090</td>
+					<td class="tcr"><a href="viewtopic.php?pid=188#p188">24-Nov-2009,Tue 22:31:04</a> <span class="byuser">by&nbsp;higopi</span></td>
+				</tr>
+				<tr>
+					<td class="tcl">
+						<div class="intd">
+							<div class="icon"><div class="nosize"><!-- --></div></div>
+							<div class="tclcon">
+								<a href="viewtopic.php?id=62">current research in NLP</a> <span class="byuser">by&nbsp;smr.admin</span>
+							</div>
+						</div>
+					</td>
+					<td class="tc2">1</td>
+					<td class="tc3">4314</td>
+					<td class="tcr"><a href="viewtopic.php?pid=186#p186">16-Nov-2009,Mon 07:44:38</a> <span class="byuser">by&nbsp;higopi</span></td>
+				</tr>
+				<tr>
+					<td class="tcl">
+						<div class="intd">
+							<div class="icon"><div class="nosize"><!-- --></div></div>
+							<div class="tclcon">
+								<a href="viewtopic.php?id=57">Regarding Inscirpt Typing help</a> <span class="byuser">by&nbsp;rameshn</span>
+							</div>
+						</div>
+					</td>
+					<td class="tc2">1</td>
+					<td class="tc3">4480</td>
+					<td class="tcr"><a href="viewtopic.php?pid=168#p168">06-Oct-2009,Tue 13:03:40</a> <span class="byuser">by&nbsp;higopi</span></td>
+				</tr>
+				<tr>
+					<td class="tcl">
+						<div class="intd">
+							<div class="icon"><div class="nosize"><!-- --></div></div>
+							<div class="tclcon">
+								<a href="viewtopic.php?id=55">Regarding Telugu to English conversion</a> <span class="byuser">by&nbsp;rameshn</span>
+							</div>
+						</div>
+					</td>
+					<td class="tc2">1</td>
+					<td class="tc3">4987</td>
+					<td class="tcr"><a href="viewtopic.php?pid=163#p163">22-Sep-2009,Tue 12:45:44</a> <span class="byuser">by&nbsp;higopi</span></td>
+				</tr>
+				<tr>
+					<td class="tcl">
+						<div class="intd">
+							<div class="icon"><div class="nosize"><!-- --></div></div>
+							<div class="tclcon">
+								<a href="viewtopic.php?id=51">Regarding space handling in phonetic typing</a> <span class="byuser">by&nbsp;rameshn</span>
+							</div>
+						</div>
+					</td>
+					<td class="tc2">1</td>
+					<td class="tc3">4646</td>
+					<td class="tcr"><a href="viewtopic.php?pid=141#p141">13-Jul-2009,Mon 11:21:49</a> <span class="byuser">by&nbsp;higopi</span></td>
+				</tr>
+				<tr>
+					<td class="tcl">
+						<div class="intd">
+							<div class="icon"><div class="nosize"><!-- --></div></div>
+							<div class="tclcon">
+								<a href="viewtopic.php?id=50">How to make Typewriter mode the only mode by default ?</a> <span class="byuser">by&nbsp;madhabi</span>
+							</div>
+						</div>
+					</td>
+					<td class="tc2">2</td>
+					<td class="tc3">6274</td>
+					<td class="tcr"><a href="viewtopic.php?pid=137#p137">12-Jun-2009,Fri 15:24:55</a> <span class="byuser">by&nbsp;madhabi</span></td>
+				</tr>
+				<tr>
+					<td class="tcl">
+						<div class="intd">
+							<div class="icon"><div class="nosize"><!-- --></div></div>
+							<div class="tclcon">
+								<a href="viewtopic.php?id=48">Help wanted for phonetic bangla webtyping by using one of your scripts</a> <span class="byuser">by&nbsp;madhabi</span>
+							</div>
+						</div>
+					</td>
+					<td class="tc2">3</td>
+					<td class="tc3">7305</td>
+					<td class="tcr"><a href="viewtopic.php?pid=132#p132">19-May-2009,Tue 09:50:07</a> <span class="byuser">by&nbsp;higopi</span></td>
+				</tr>
+				<tr>
+					<td class="tcl">
+						<div class="intd">
+							<div class="icon"><div class="nosize"><!-- --></div></div>
+							<div class="tclcon">
+								<a href="viewtopic.php?id=45">save the file with tamil fonts.</a> <span class="byuser">by&nbsp;booky</span>
+							</div>
+						</div>
+					</td>
+					<td class="tc2">5</td>
+					<td class="tc3">12238</td>
+					<td class="tcr"><a href="viewtopic.php?pid=122#p122">28-Jan-2009,Wed 06:44:41</a> <span class="byuser">by&nbsp;higopi</span></td>
+				</tr>
+				<tr>
+					<td class="tcl">
+						<div class="intd">
+							<div class="icon"><div class="nosize"><!-- --></div></div>
+							<div class="tclcon">
+								<a href="viewtopic.php?id=44">Tamil in LaTeX...</a> <span class="byuser">by&nbsp;siva</span>
+							</div>
+						</div>
+					</td>
+					<td class="tc2">1</td>
+					<td class="tc3">4523</td>
+					<td class="tcr"><a href="viewtopic.php?pid=114#p114">09-Jan-2009,Fri 10:38:53</a> <span class="byuser">by&nbsp;higopi</span></td>
+				</tr>
+				<tr>
+					<td class="tcl">
+						<div class="intd">
+							<div class="icon"><div class="nosize"><!-- --></div></div>
+							<div class="tclcon">
+								<a href="viewtopic.php?id=40">KeyMap &amp; KeyMap Help positon change</a> <span class="byuser">by&nbsp;nanban</span>
+							</div>
+						</div>
+					</td>
+					<td class="tc2">3</td>
+					<td class="tc3">6935</td>
+					<td class="tcr"><a href="viewtopic.php?pid=112#p112">24-Dec-2008,Wed 19:17:01</a> <span class="byuser">by&nbsp;higopi</span></td>
+				</tr>
+				<tr>
+					<td class="tcl">
+						<div class="intd">
+							<div class="icon"><div class="nosize"><!-- --></div></div>
+							<div class="tclcon">
+								<a href="viewtopic.php?id=42">hindi typing problem</a> <span class="byuser">by&nbsp;rkahar</span>
+							</div>
+						</div>
+					</td>
+					<td class="tc2">1</td>
+					<td class="tc3">5034</td>
+					<td class="tcr"><a href="viewtopic.php?pid=110#p110">18-Nov-2008,Tue 08:54:36</a> <span class="byuser">by&nbsp;higopi</span></td>
+				</tr>
+			</tbody>
+			</table>
+		</div>
+	</div>
+</div>
+
+<div class="linksb">
+	<div class="inbox">
+		<p class="pagelink conl">Pages: <strong>1</strong>&nbsp;<a href="viewforum.php?id=3&amp;p=2">2</a></p>
+		<ul><li><a href="index.php">Index</a>&nbsp;</li><li>&raquo;&nbsp;Indian Language Software</li></ul>
+		<div class="clearer"></div>
+	</div>
+</div>
+
+<div id="brdfooter" class="block">
+	<h2><span>Board footer</span></h2>
+	<div class="box">
+		<div class="inbox">
+
+			<div class="conl">
+				<form id="qjump" method="get" action="viewforum.php">
+					<div><label>Jump to
+					<br /><select name="id" onchange="window.location=('viewforum.php?id='+this.options[this.selectedIndex].value)">
+						<optgroup label="Technical">
+							<option value="5">IT Jobs in India</option>
+							<option value="2">Technical Doubts</option>
+							<option value="4">Java Technology</option>
+							<option value="3" selected="selected">Indian Language Software</option>
+						</optgroup>
+						<optgroup label="Others">
+							<option value="7">General</option>
+					</optgroup>
+					</select>
+					<input type="submit" value=" Go " accesskey="g" />
+					</label></div>
+				</form>
+			</div>
+			<p class="conr">Powered by <a href="http://punbb.informer.com/">PunBB</a><br />&copy; Copyright 2002&#8211;2008 PunBB</p>
+			<div class="clearer"></div>
+		</div>
+	</div>
+</div>
+
+</div>
+</div>
+<!-- JOOMLA SITE GROUND TEMPLATE START 3 -->
+</div>
+</td>
+	<td class="rightcol" valign="top">
+				<table class="moduletable" cellpadding="0" cellspacing="0">
+			<tbody><tr>
+			<th valign="top">
+				Google Ads			</th>
+		</tr>
+			<tr>
+			<td>
+				<div style="text-align: center;">
+<script type="text/javascript"><!--
+google_ad_client = "pub-5262009510690646";
+/* 160x600, created 24/11/08 */
+google_ad_slot = "1340162236";
+google_ad_width = 160;
+google_ad_height = 600;
+//-->
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script>
+</div>			</td>
+		</tr>
+		</tbody></table>
+
+	</td>
+</tr></table>
+<div class="footer_bg">
+<div class="footer">
+<table>
+<tbody><tr><td style="width: 625px; color: rgb(255, 255, 255); text-align: left;">
+ 	Powered by <a href="http://joomla.org/" class="sgfooter" target="_blank"><b>Joomla!</b></a>; Template modified from <a href="http://www.siteground.com/joomla-hosting/joomla-templates.htm" target="_blank" class="sgfooter">SiteGround.com's <b>Blue Fairy</b>.</a> </td>
+
+<td style="width: 625px; color: rgb(255, 255, 255); text-align: right;" align="right">Please send your suggestions to <a href="mailto:webmaster@higopi.com" title="mail" style="color: rgb(255, 255, 255);"><img src="/images/mailgif/webmaster.gif" align="top" border="0"></a>
+ to improve this site.</td></tr></tbody></table>
+ </div>
+</div>
+
+<div style="text-align: center;">  	<table class="moduletable" cellpadding="0" cellspacing="0">
+			<tbody><tr>
+			<td>
+<script type="text/javascript">
+google_ad_client = "pub-5262009510690646";
+google_ad_type = "text";
+google_ad_channel = "";
+google_ad_slot = "2182111640";
+google_ad_width = 728;
+google_ad_height = 90;
+google_ad_format = "728x90_as";
+
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script>
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-1027973-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+</td>
+		</tr>
+		</tbody></table>
+	 </div>
+
+</div>
+</center>
+
+<script language="JavaScript">
+function toggleScreen()
+{
+	objectId = "logo";
+    // cross-browser function to get an object's style object given its
+    if(document.getElementById && document.getElementById(objectId)) {
+	// W3C DOM
+	styleObj = document.getElementById(objectId).style;
+    } else if (document.all && document.all(objectId)) {
+	// MSIE 4 DOM
+	styleObj = document.all(objectId).style;
+    } else if (document.layers && document.layers[objectId]) {
+	// NN 4 DOM.. note: this won't find nested layers
+	styleObj = document.layers[objectId];
+    } else {
+	return false;
+    }
+    if(styleObj.paddingTop == "" || styleObj.paddingTop == "156px")
+    {
+	    styleObj.paddingTop = "56px";
+		document.getElementById("updownarrow").src = "/templates/siteground39/images/downarrow.gif";
+		setCookie("ScreenPref","Half",365);
+    }
+    else
+    {
+	    styleObj.paddingTop = "156px";
+	    document.getElementById("updownarrow").src = "/templates/siteground39/images/uparrow.gif";
+	    setCookie("ScreenPref","Full",365);
+    }
+}
+
+function setCookie(c_name,value,expiredays)
+{
+var exdate=new Date();
+exdate.setDate(exdate.getDate()+expiredays);
+document.cookie=c_name+ "=" +escape(value)+
+((expiredays==null) ? "" : ";expires="+exdate.toGMTString()) + ";path=/";
+}
+
+function getCookie(c_name)
+{
+if (document.cookie.length>0)
+  {
+  c_start=document.cookie.indexOf(c_name + "=");
+  if (c_start!=-1)
+    {
+    c_start=c_start + c_name.length+1;
+    c_end=document.cookie.indexOf(";",c_start);
+    if (c_end==-1) c_end=document.cookie.length;
+    return unescape(document.cookie.substring(c_start,c_end));
+    }
+  }
+return "";
+}
+
+if(getCookie("ScreenPref") == "Half")
+	toggleScreen();
+</script>
+
+
+<!-- JOOMLA SITE GROUND TEMPLATE END 3 -->
+
+</body>
+</html>

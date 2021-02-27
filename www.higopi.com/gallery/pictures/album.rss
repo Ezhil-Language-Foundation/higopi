@@ -1,0 +1,560 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+
+    <channel>
+        <title>Pictures</title>
+   	<link>.</link>
+        <generator>Jalbum 8.9</generator>
+   		<description></description>
+        
+        
+        <item>
+            <title>ducks</title>
+            <link>slides/ducks.html#</link>
+            <pubDate>Thu, 15 Jul 2010 15:15:46 +0530</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/ducks.jpg" width="124" height="75"/>
+            <media:content type="image/jpeg" url="slides/ducks.jpg" width="640" height="388"/>
+            
+            
+            <guid isPermaLink="false">slides/ducks.jpg</guid>
+        </item>
+        
+        <item>
+            <title>durgamcheruvu</title>
+            <link>slides/durgamcheruvu.html#</link>
+            <pubDate>Thu, 15 Jul 2010 15:15:46 +0530</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/durgamcheruvu.jpg" width="124" height="75"/>
+            <media:content type="image/jpeg" url="slides/durgamcheruvu.jpg" width="640" height="391"/>
+            
+            
+            <guid isPermaLink="false">slides/durgamcheruvu.jpg</guid>
+        </item>
+        
+        <item>
+            <title>elephant</title>
+            <link>slides/elephant.html#</link>
+            <pubDate>Thu, 15 Jul 2010 15:15:46 +0530</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/elephant.jpg" width="124" height="75"/>
+            <media:content type="image/jpeg" url="slides/elephant.jpg" width="640" height="391"/>
+            
+            
+            <guid isPermaLink="false">slides/elephant.jpg</guid>
+        </item>
+        
+        <item>
+            <title>fallingmoon</title>
+            <link>slides/fallingmoon.html#</link>
+            <pubDate>Thu, 15 Jul 2010 15:15:46 +0530</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/fallingmoon.jpg" width="124" height="75"/>
+            <media:content type="image/jpeg" url="slides/fallingmoon.jpg" width="640" height="392"/>
+            
+            
+            <guid isPermaLink="false">slides/fallingmoon.jpg</guid>
+        </item>
+        
+        <item>
+            <title>gmoon</title>
+            <link>slides/gmoon.html#</link>
+            <pubDate>Thu, 15 Jul 2010 15:15:46 +0530</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/gmoon.jpg" width="124" height="75"/>
+            <media:content type="image/jpeg" url="slides/gmoon.jpg" width="640" height="392"/>
+            
+            
+            <guid isPermaLink="false">slides/gmoon.jpg</guid>
+        </item>
+        
+        <item>
+            <title>hitec2</title>
+            <link>slides/hitec2.html#</link>
+            <pubDate>Thu, 15 Jul 2010 15:15:46 +0530</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/hitec2.jpg" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/hitec2.jpg" width="640" height="480"/>
+            
+            
+            <guid isPermaLink="false">slides/hitec2.jpg</guid>
+        </item>
+        
+        <item>
+            <title>homecake</title>
+            <link>slides/homecake.html#</link>
+            <pubDate>Thu, 15 Jul 2010 15:15:46 +0530</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/homecake.jpg" width="124" height="75"/>
+            <media:content type="image/jpeg" url="slides/homecake.jpg" width="640" height="392"/>
+            
+            
+            <guid isPermaLink="false">slides/homecake.jpg</guid>
+        </item>
+        
+        <item>
+            <title>husainsagar</title>
+            <link>slides/husainsagar.html#</link>
+            <pubDate>Thu, 15 Jul 2010 15:15:46 +0530</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/husainsagar.jpg" width="124" height="74"/>
+            <media:content type="image/jpeg" url="slides/husainsagar.jpg" width="640" height="382"/>
+            
+            
+            <guid isPermaLink="false">slides/husainsagar.jpg</guid>
+        </item>
+        
+        <item>
+            <title>icrisat</title>
+            <link>slides/icrisat.html#</link>
+            <pubDate>Thu, 15 Jul 2010 15:15:46 +0530</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/icrisat.jpg" width="124" height="74"/>
+            <media:content type="image/jpeg" url="slides/icrisat.jpg" width="640" height="385"/>
+            
+            
+            <guid isPermaLink="false">slides/icrisat.jpg</guid>
+        </item>
+        
+        <item>
+            <title>kite1</title>
+            <link>slides/kite1.html#</link>
+            <pubDate>Thu, 15 Jul 2010 15:15:46 +0530</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/kite1.jpg" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/kite1.jpg" width="640" height="480"/>
+            
+            
+            <guid isPermaLink="false">slides/kite1.jpg</guid>
+        </item>
+        
+        <item>
+            <title>kite2</title>
+            <link>slides/kite2.html#</link>
+            <pubDate>Thu, 15 Jul 2010 15:15:46 +0530</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/kite2.jpg" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/kite2.jpg" width="640" height="480"/>
+            
+            
+            <guid isPermaLink="false">slides/kite2.jpg</guid>
+        </item>
+        
+        <item>
+            <title>ladyonpaint</title>
+            <link>slides/ladyonpaint.html#</link>
+            <pubDate>Thu, 15 Jul 2010 15:15:46 +0530</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/ladyonpaint.jpg" width="124" height="82"/>
+            <media:content type="image/jpeg" url="slides/ladyonpaint.jpg" width="640" height="426"/>
+            
+            <jalbum:exif originalDate="12/31/03 11:29 PM" cameraMake="EASTMAN KODAK COMPANY" cameraModel="KODAK DX4900 ZOOM DIGITAL CAMERA"/>
+            <guid isPermaLink="false">slides/ladyonpaint.jpg</guid>
+        </item>
+        
+        <item>
+            <title>lightworks</title>
+            <link>slides/lightworks.html#</link>
+            <pubDate>Thu, 15 Jul 2010 15:15:46 +0530</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/lightworks.jpg" width="124" height="72"/>
+            <media:content type="image/jpeg" url="slides/lightworks.jpg" width="640" height="372"/>
+            
+            
+            <guid isPermaLink="false">slides/lightworks.jpg</guid>
+        </item>
+        
+        <item>
+            <title>lovers</title>
+            <link>slides/lovers.html#</link>
+            <pubDate>Thu, 15 Jul 2010 15:15:46 +0530</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/lovers.jpg" width="124" height="82"/>
+            <media:content type="image/jpeg" url="slides/lovers.jpg" width="640" height="426"/>
+            
+            
+            <guid isPermaLink="false">slides/lovers.jpg</guid>
+        </item>
+        
+        <item>
+            <title>moon</title>
+            <link>slides/moon.html#</link>
+            <pubDate>Thu, 15 Jul 2010 15:15:46 +0530</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/moon.jpg" width="124" height="75"/>
+            <media:content type="image/jpeg" url="slides/moon.jpg" width="640" height="390"/>
+            
+            
+            <guid isPermaLink="false">slides/moon.jpg</guid>
+        </item>
+        
+        <item>
+            <title>nagarjunasagar1</title>
+            <link>slides/nagarjunasagar1.html#</link>
+            <pubDate>Thu, 15 Jul 2010 15:15:46 +0530</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/nagarjunasagar1.jpg" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/nagarjunasagar1.jpg" width="640" height="480"/>
+            
+            
+            <guid isPermaLink="false">slides/nagarjunasagar1.jpg</guid>
+        </item>
+        
+        <item>
+            <title>nagarjunasagar2</title>
+            <link>slides/nagarjunasagar2.html#</link>
+            <pubDate>Thu, 15 Jul 2010 15:15:46 +0530</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/nagarjunasagar2.jpg" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/nagarjunasagar2.jpg" width="640" height="480"/>
+            
+            
+            <guid isPermaLink="false">slides/nagarjunasagar2.jpg</guid>
+        </item>
+        
+        <item>
+            <title>nagarjunasagar3</title>
+            <link>slides/nagarjunasagar3.html#</link>
+            <pubDate>Thu, 15 Jul 2010 15:15:46 +0530</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/nagarjunasagar3.jpg" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/nagarjunasagar3.jpg" width="640" height="480"/>
+            
+            
+            <guid isPermaLink="false">slides/nagarjunasagar3.jpg</guid>
+        </item>
+        
+        <item>
+            <title>nagarjunasagar4</title>
+            <link>slides/nagarjunasagar4.html#</link>
+            <pubDate>Thu, 15 Jul 2010 15:15:46 +0530</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/nagarjunasagar4.jpg" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/nagarjunasagar4.jpg" width="640" height="480"/>
+            
+            
+            <guid isPermaLink="false">slides/nagarjunasagar4.jpg</guid>
+        </item>
+        
+        <item>
+            <title>nagarjunasagar5</title>
+            <link>slides/nagarjunasagar5.html#</link>
+            <pubDate>Thu, 15 Jul 2010 15:15:46 +0530</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/nagarjunasagar5.jpg" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/nagarjunasagar5.jpg" width="640" height="480"/>
+            
+            
+            <guid isPermaLink="false">slides/nagarjunasagar5.jpg</guid>
+        </item>
+        
+        <item>
+            <title>nagarjunasagar6</title>
+            <link>slides/nagarjunasagar6.html#</link>
+            <pubDate>Thu, 15 Jul 2010 15:15:46 +0530</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/nagarjunasagar6.jpg" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/nagarjunasagar6.jpg" width="640" height="480"/>
+            
+            
+            <guid isPermaLink="false">slides/nagarjunasagar6.jpg</guid>
+        </item>
+        
+        <item>
+            <title>nagarjunasagar7</title>
+            <link>slides/nagarjunasagar7.html#</link>
+            <pubDate>Thu, 15 Jul 2010 15:15:46 +0530</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/nagarjunasagar7.jpg" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/nagarjunasagar7.jpg" width="640" height="480"/>
+            
+            
+            <guid isPermaLink="false">slides/nagarjunasagar7.jpg</guid>
+        </item>
+        
+        <item>
+            <title>nagarjunasagar8</title>
+            <link>slides/nagarjunasagar8.html#</link>
+            <pubDate>Thu, 15 Jul 2010 15:15:46 +0530</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/nagarjunasagar8.jpg" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/nagarjunasagar8.jpg" width="640" height="480"/>
+            
+            
+            <guid isPermaLink="false">slides/nagarjunasagar8.jpg</guid>
+        </item>
+        
+        <item>
+            <title>nagarjunasagar9</title>
+            <link>slides/nagarjunasagar9.html#</link>
+            <pubDate>Thu, 15 Jul 2010 15:15:46 +0530</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/nagarjunasagar9.jpg" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/nagarjunasagar9.jpg" width="640" height="480"/>
+            
+            
+            <guid isPermaLink="false">slides/nagarjunasagar9.jpg</guid>
+        </item>
+        
+        <item>
+            <title>nagarjunasagar10</title>
+            <link>slides/nagarjunasagar10.html#</link>
+            <pubDate>Thu, 15 Jul 2010 15:15:46 +0530</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/nagarjunasagar10.jpg" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/nagarjunasagar10.jpg" width="640" height="480"/>
+            
+            
+            <guid isPermaLink="false">slides/nagarjunasagar10.jpg</guid>
+        </item>
+        
+        <item>
+            <title>newyear</title>
+            <link>slides/newyear.html#</link>
+            <pubDate>Thu, 15 Jul 2010 15:15:46 +0530</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/newyear.jpg" width="124" height="75"/>
+            <media:content type="image/jpeg" url="slides/newyear.jpg" width="640" height="391"/>
+            
+            
+            <guid isPermaLink="false">slides/newyear.jpg</guid>
+        </item>
+        
+        <item>
+            <title>ontheway</title>
+            <link>slides/ontheway.html#</link>
+            <pubDate>Thu, 15 Jul 2010 15:15:46 +0530</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/ontheway.jpg" width="124" height="75"/>
+            <media:content type="image/jpeg" url="slides/ontheway.jpg" width="640" height="392"/>
+            
+            
+            <guid isPermaLink="false">slides/ontheway.jpg</guid>
+        </item>
+        
+        <item>
+            <title>peacockfeather</title>
+            <link>slides/peacockfeather.html#</link>
+            <pubDate>Thu, 15 Jul 2010 15:15:46 +0530</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/peacockfeather.jpg" width="124" height="82"/>
+            <media:content type="image/jpeg" url="slides/peacockfeather.jpg" width="640" height="426"/>
+            
+            
+            <guid isPermaLink="false">slides/peacockfeather.jpg</guid>
+        </item>
+        
+        <item>
+            <title>resort</title>
+            <link>slides/resort.html#</link>
+            <pubDate>Thu, 15 Jul 2010 15:15:46 +0530</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/resort.jpg" width="124" height="75"/>
+            <media:content type="image/jpeg" url="slides/resort.jpg" width="640" height="391"/>
+            
+            
+            <guid isPermaLink="false">slides/resort.jpg</guid>
+        </item>
+        
+        <item>
+            <title>sky</title>
+            <link>slides/sky.html#</link>
+            <pubDate>Thu, 15 Jul 2010 15:15:46 +0530</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/sky.jpg" width="124" height="75"/>
+            <media:content type="image/jpeg" url="slides/sky.jpg" width="640" height="392"/>
+            
+            
+            <guid isPermaLink="false">slides/sky.jpg</guid>
+        </item>
+        
+        <item>
+            <title>srisailam2</title>
+            <link>slides/srisailam2.html#</link>
+            <pubDate>Thu, 15 Jul 2010 15:15:46 +0530</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/srisailam2.jpg" width="124" height="82"/>
+            <media:content type="image/jpeg" url="slides/srisailam2.jpg" width="640" height="424"/>
+            
+            
+            <guid isPermaLink="false">slides/srisailam2.jpg</guid>
+        </item>
+        
+        <item>
+            <title>srisailam3</title>
+            <link>slides/srisailam3.html#</link>
+            <pubDate>Thu, 15 Jul 2010 15:15:46 +0530</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/srisailam3.jpg" width="124" height="82"/>
+            <media:content type="image/jpeg" url="slides/srisailam3.jpg" width="640" height="424"/>
+            
+            
+            <guid isPermaLink="false">slides/srisailam3.jpg</guid>
+        </item>
+        
+        <item>
+            <title>srisailam4</title>
+            <link>slides/srisailam4.html#</link>
+            <pubDate>Thu, 15 Jul 2010 15:15:46 +0530</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/srisailam4.jpg" width="124" height="82"/>
+            <media:content type="image/jpeg" url="slides/srisailam4.jpg" width="640" height="424"/>
+            
+            
+            <guid isPermaLink="false">slides/srisailam4.jpg</guid>
+        </item>
+        
+        <item>
+            <title>srisailam5</title>
+            <link>slides/srisailam5.html#</link>
+            <pubDate>Thu, 15 Jul 2010 15:15:46 +0530</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/srisailam5.jpg" width="124" height="82"/>
+            <media:content type="image/jpeg" url="slides/srisailam5.jpg" width="640" height="424"/>
+            
+            
+            <guid isPermaLink="false">slides/srisailam5.jpg</guid>
+        </item>
+        
+        <item>
+            <title>srisailam6</title>
+            <link>slides/srisailam6.html#</link>
+            <pubDate>Thu, 15 Jul 2010 15:15:46 +0530</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/srisailam6.jpg" width="124" height="82"/>
+            <media:content type="image/jpeg" url="slides/srisailam6.jpg" width="640" height="424"/>
+            
+            
+            <guid isPermaLink="false">slides/srisailam6.jpg</guid>
+        </item>
+        
+        <item>
+            <title>srisailam7</title>
+            <link>slides/srisailam7.html#</link>
+            <pubDate>Thu, 15 Jul 2010 15:15:46 +0530</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/srisailam7.jpg" width="124" height="82"/>
+            <media:content type="image/jpeg" url="slides/srisailam7.jpg" width="640" height="424"/>
+            
+            
+            <guid isPermaLink="false">slides/srisailam7.jpg</guid>
+        </item>
+        
+        <item>
+            <title>srisailam8</title>
+            <link>slides/srisailam8.html#</link>
+            <pubDate>Thu, 15 Jul 2010 15:15:46 +0530</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/srisailam8.jpg" width="124" height="82"/>
+            <media:content type="image/jpeg" url="slides/srisailam8.jpg" width="640" height="424"/>
+            
+            
+            <guid isPermaLink="false">slides/srisailam8.jpg</guid>
+        </item>
+        
+        <item>
+            <title>srisailam9</title>
+            <link>slides/srisailam9.html#</link>
+            <pubDate>Thu, 15 Jul 2010 15:15:46 +0530</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/srisailam9.jpg" width="124" height="82"/>
+            <media:content type="image/jpeg" url="slides/srisailam9.jpg" width="640" height="424"/>
+            
+            
+            <guid isPermaLink="false">slides/srisailam9.jpg</guid>
+        </item>
+        
+        <item>
+            <title>thunderbird</title>
+            <link>slides/thunderbird.html#</link>
+            <pubDate>Thu, 15 Jul 2010 15:15:46 +0530</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/thunderbird.jpg" width="124" height="82"/>
+            <media:content type="image/jpeg" url="slides/thunderbird.jpg" width="640" height="426"/>
+            
+            
+            <guid isPermaLink="false">slides/thunderbird.jpg</guid>
+        </item>
+        
+        <item>
+            <title>flowers</title>
+            <link>slides/flowers.html#</link>
+            <pubDate>Thu, 15 Jul 2010 15:15:46 +0530</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/flowers.jpg" width="82" height="124"/>
+            <media:content type="image/jpeg" url="slides/flowers.jpg" width="320" height="480"/>
+            
+            
+            <guid isPermaLink="false">slides/flowers.jpg</guid>
+        </item>
+        
+        <item>
+            <title>lighttree</title>
+            <link>slides/lighttree.html#</link>
+            <pubDate>Thu, 15 Jul 2010 15:15:46 +0530</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/lighttree.jpg" width="82" height="124"/>
+            <media:content type="image/jpeg" url="slides/lighttree.jpg" width="320" height="480"/>
+            
+            
+            <guid isPermaLink="false">slides/lighttree.jpg</guid>
+        </item>
+        
+        <item>
+            <title>behappy</title>
+            <link>slides/behappy.html#</link>
+            <pubDate>Thu, 15 Jul 2010 15:15:46 +0530</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/behappy.jpg" width="82" height="124"/>
+            <media:content type="image/jpeg" url="slides/behappy.jpg" width="320" height="480"/>
+            
+            
+            <guid isPermaLink="false">slides/behappy.jpg</guid>
+        </item>
+        
+    </channel>
+</rss>

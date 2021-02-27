@@ -1,0 +1,17 @@
+pref("extensions.adhiyan.englishshortcut","Alt+1");
+pref("extensions.adhiyan.tsciishortcut","Alt+2");
+pref("extensions.adhiyan.tuneshortcut","Alt+3");
+pref("extensions.adhiyan.ascshortcut","Alt+4");
+pref("extensions.adhiyan.tabshortcut","Alt+5");
+pref("extensions.adhiyan.tamshortcut","Alt+6");
+pref("extensions.adhiyan.thanthishortcut","Alt+7");
+pref("extensions.adhiyan.manishortcut","Alt+8");
+pref("extensions.adhiyan.showcnenglish",true);
+pref("extensions.adhiyan.showcntscii",true);
+pref("extensions.adhiyan.showcntune",true);
+pref("extensions.adhiyan.showcnasc",true);
+pref("extensions.adhiyan.showcntab",true);
+pref("extensions.adhiyan.showcntam",true);
+pref("extensions.adhiyan.showcnthanthi",true);
+pref("extensions.adhiyan.showcnmani",true);
+pref("extensions.adhiyan.selecturls","dailythanthi.com,5;dinakaran.com,4;kumudam.com,4;dinamani.com,6;cinemaexpress.com,6;tamilanexpress.com,6;kalkiweekly.com,0;mangayarmalaronline.com,0");
